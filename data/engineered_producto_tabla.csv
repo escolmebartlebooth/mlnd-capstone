@@ -1,0 +1,2593 @@
+ID,ORIGINAL_NAME,PRODUCT_NAME,PIECES,WEIGHT,MNEMONIC
+0, ,NO,None,None,IDENTIFICADO
+9, ,Capuccino,None,750g ,NES
+41, ,Bimbollos,6p ,480g ,BIM
+53, ,Burritos,None,170g ,LON
+72, ,Div,4p ,45g ,TR
+73, ,Pan,None,540g ,BIM
+98, ,Tostado,None,180g ,WON
+99, ,Pan,None,567g ,WON
+100, ,Super,None,680g ,WON
+106, ,Wonder,None,475g ,WON
+107, ,Wonder,None,680g ,WON
+108, ,Baguette,None,g ,DH
+109, ,Pan,None,475g ,WON
+112, ,Tostado,None,180g ,WON
+122, ,Biscotel,None,410g ,SUA
+123, ,Super,8p ,540g ,WON
+125, ,Bollos,8p ,450g ,WON
+131, ,Bollos,36p ,1635g ,SL
+132, ,Bollos,30p ,1730g ,SL
+134, ,Bollos,30p ,1635g ,SL
+135, ,Bollos,20p ,1730g ,SL
+141, ,Hot,8p ,290g ,WON
+145, ,Super,8p ,435g ,WON
+151, ,Medias,24p ,470g ,SL
+157, ,Bollo,20p ,1950g ,SL
+160, ,Molido,None,180g ,WON
+161, ,Bollos,15p ,1237g ,WON
+162, ,Molido,None,g ,WON
+163, ,Molido,None,g ,WON
+179, ,Tostado,None,200g ,WON
+183, ,Tortillas,10p ,260g ,WON
+202, ,Bollos,12p ,976g ,SL
+205, ,Bollos,18p ,1000g ,SL
+214, ,Bollos,None,1080g ,SL
+217, ,Hot,None,g ,BIM
+248, ,Marias,None,170g ,LAR
+303, ,Dalmata,1p ,55g ,MLA
+306, ,Chocotorro,1p ,50g ,MLA
+308, ,Dalmata,1p ,55g ,MLA
+321, ,Tuinky,2p ,76g ,WON
+322, ,Tuinky,2p ,None,WON
+323, ,Tuinky,3p ,114g ,WON
+325, ,Tuinky,3p ,114g ,WON
+328, ,Tuinky,3p ,114g ,WON
+357, ,Panitos,None,30g ,WON
+412, ,Canelitas,None,30g ,MLA
+523, ,Dalmata,1p ,55g ,MLA
+614, ,Bombonete,None,55g ,MLA
+617, ,Canelitas,None,900g ,MLA
+630, ,Nito,4p ,248g ,BIM
+632, ,Mantecadas,8p ,250g ,BIM
+634, ,Donitas,12p ,210g ,BIM
+635, ,Donas,8p ,210g ,BIM
+641, ,Bollo,15p ,1200g ,BIM
+665, ,Figatza,None,345g ,BIM
+693, ,Tostada,15p ,175g ,MR
+713, ,Pan,None,680g ,ORO
+714, ,7,None,680g ,ORO
+715, ,Pan,None,680g ,ORO
+739, ,Saladas,200p ,g ,LAR
+779, ,Pan,None,500g ,BIM
+799, ,Mini,None,45g ,MLA
+815, ,Tostada,30p ,g ,MR
+831, ,Gansito,10p ,500g ,MLA
+890, ,Tostada,None,360g ,MR
+897, ,Tostada,30p ,360g ,MR
+915, ,Bolillo,None,80g ,DH
+972, ,Roles,6p ,365g ,BIM
+1031, ,Pan,None,500g ,BIM
+1039, ,Pan,None,680g ,ORO
+1064, ,Panque,None,255g ,BIM
+1101, ,Tortillinas,None,500g ,TR
+1109, ,Pan,None,360g ,BIM
+1111, ,Pan,None,1360g ,BIM
+1112, ,Super,None,740g ,BIM
+1120, ,Pan,None,680g ,BIM
+1124, ,Tortillinas,10p ,365g ,TR
+1125, ,Tortillinas,10p ,255g ,TR
+1126, ,Tortillinas,10p ,510g ,TR
+1129, ,Tortillinas,20p ,510g ,TR
+1134, ,Tortilla,22p ,840g ,DH
+1136, ,Jugos,None,350ml ,VR
+1143, ,Pan,None,1360g ,BIM
+1144, ,Pan,None,480g ,BIM
+1145, ,Pan,None,680g ,BIM
+1146, ,Pan,None,675g ,BIM
+1147, ,Tostada,15p ,230g ,DH
+1148, ,Tostada,20p ,180g ,DH
+1150, ,Medias,8p ,340g ,BIM
+1153, ,Medias,16p ,680g ,BIM
+1156, ,Tortillinas,50p ,g ,TR
+1160, ,Bimbollos,8p ,450g ,BIM
+1164, ,Bimbollos,12p ,675g ,BIM
+1166, ,Bollo,30p ,None,BIM
+1167, ,Bollos,30p ,1700g ,BIM
+1168, ,Bollo,30p ,g ,BIM
+1169, ,Bimbollos,6p ,480g ,BIM
+1178, ,Chino,None,72g ,DH
+1180, ,Tostado,None,210g ,BIM
+1182, ,Tostado,None,210g ,BIM
+1185, ,Molido,None,210g ,BIM
+1187, ,Molido,None,g ,BIM
+1198, ,Tostado,None,420g ,BIM
+1212, ,Roles,2p ,120g ,BIM
+1216, ,Roles,2p ,135g ,BIM
+1220, ,Colchones,6p ,130g ,BIM
+1230, ,Panque,None,255g ,BIM
+1232, ,Panque,None,255g ,BIM
+1233, ,Tostado,None,250g ,BIM
+1238, ,Panquecito,2p ,140g ,BIM
+1240, ,Mantecadas,4p ,125g ,BIM
+1242, ,Donitas,6p ,105g ,BIM
+1250, ,Donas,4p ,105g ,BIM
+1272, ,Conchas,2p ,120g ,BIM
+1277, ,Nito,None,62g ,BIM
+1278, ,Nito,1p ,62g ,BIM
+1284, ,Rebanada,2p ,55g ,BIM
+1289, ,Donas,None,None,BIM
+1294, ,Lors,20p ,236g ,MLA
+1309, ,Bimbunuelos,4p ,66g ,BIM
+1319, ,Conchitas,2p ,65g ,BIM
+1348, ,Surtido,None,454g ,LAR
+1373, ,Bollos,12p ,960g ,BIM
+1464, ,Donas,26p ,650g ,BIM
+1554, ,Bimbollos,18p ,1440g ,BIM
+1580, ,Rosca,None,600g ,SUA
+1608, ,Pastel,None,g ,SUA
+1641, ,Doraditas,4p ,None,TR
+1643, ,Bran,None,40g ,BIM
+1644, ,Bran,None,40g ,BIM
+1647, ,Animalitos,None,500g ,LAR
+1686, ,Tortillas,20p ,520g ,WON
+1687, ,Roles,6p ,410g ,BIM
+1700, ,Tortilla,None,550g ,TR
+1702, ,Tortillas,None,g ,TR
+1876, ,Totopos,None,200g ,MR
+1899, ,Galleta,None,g ,LAR
+1949, ,Suavicremas,12p ,480g ,MLA
+2025, ,Pan,None,460g ,BIM
+2027, ,Pan,None,567g ,WON
+2028, ,Canelita,3p ,30g ,MLA
+2059, ,Banderilla,None,70g ,DH
+2060, ,Barrita,None,75g ,DH
+2062, ,Concha,None,g ,DH
+2063, ,Concha,None,g ,DH
+2064, ,Peineta,None,80g ,DH
+2065, ,Cuerno,None,80g ,DH
+2095, ,Pan,None,750g ,BIM
+2096, ,Pan,None,530g ,BIM
+2097, ,Concha,None,g ,DH
+2122, ,Pan,None,567g ,SUN
+2130, ,Pan,None,475g ,WON
+2185, ,Molido,None,g ,BIM
+2230, ,Principe,6p ,64g ,MLA
+2233, ,Pan,None,640g ,BIM
+2261, ,Runners,None,58g ,BAR
+2290, ,Wonder,None,680g ,WON
+2309, ,Mantecadas,2p ,5g ,BIM
+2320, ,Barritas,None,67g ,MLA
+2425, ,Nito,1p ,62g ,BIM
+2438, ,Molido,None,g ,BIM
+2505, ,Mini,5p ,65g ,TR
+2575, ,Vasos,None,None,NES
+2589, ,Vidrio,None,65g ,DH
+2604, ,Barrita,None,44g ,DH
+2665, ,Tostada,30p ,360g ,MR
+2734, ,Lors,8p ,89g ,MLA
+2805, ,Donas,10p ,525g ,BIM
+2806, ,Donitas,30p ,525g ,BIM
+2808, ,Mantecadas,16p ,500g ,BIM
+2810, ,Panquecitos,10p ,700g ,BIM
+2816, ,Principe,8p ,85g ,MLA
+2817, ,Plativolos,8p ,74g ,MLA
+3030, ,Tostado,None,180g ,WON
+3144, ,Pan,None,540g ,BIM
+3160, ,Tostada,30p ,360g ,MR
+3230, ,Principe,8p ,88g ,MLA
+3256, ,Orejas,None,70g ,TR
+3270, ,Conchas,2p ,120g ,BIM
+3303, ,Barritas,None,67g ,MLA
+3305, ,Barritas,None,67g ,MLA
+3319, ,Pastisetas,20p ,150g ,SUA
+3320, ,Pastiseta,40p ,300g ,SUA
+3333, ,Pastisetas,None,75g ,SUA
+3402, ,Animalitos,None,g ,LAR
+3415, ,Canapinas,None,560g ,LAR
+3428, ,Deliciosas,None,g ,LAR
+3435, ,Canapinas,None,115g ,LAR
+3446, ,Magnas,None,200g ,LAR
+3447, ,Deliciosas,None,300g ,LAR
+3509, ,Paletina,None,None,NES
+3510, ,Saladas,None,140g ,LAR
+3518, ,Animalitos,None,200g ,LAR
+3525, ,Canapinas,None,95g ,LAR
+3526, ,Canapinas,None,95g ,LAR
+3530, ,Marias,None,170g ,LAR
+3535, ,Decanelas,None,100g ,LAR
+3555, ,Deliciosas,None,115g ,LAR
+3606, ,Tortilla,18p ,750g ,DH
+3609, ,Mantecadas,3p ,None,TR
+3621, ,Super,None,740g ,BIM
+3631, ,Pan,None,370g ,BIM
+3678, ,Bimbollos,8p ,450g ,BIM
+3687, ,Medias,None,500g ,BIM
+3718, ,Cuernitos,3p ,150g ,TR
+3720, ,Bran,None,40g ,BIM
+3826, ,Palitrigos,None,100g ,BIM
+3894, ,Sponch,8p ,120g ,MLA
+3919, ,Barra,None,32g ,BIM
+3944, ,Saladas,None,175g ,LAR
+3970, ,Tostada,20p ,180g ,DH
+3977, ,Bran,6p ,240g ,BIM
+3978, ,Bran,6p ,240g ,BIM
+4053, ,Bimkingo,None,86g ,LON
+4085, ,Triki,8p ,69g ,MLA
+4087, ,Lors,None,497g ,MLA
+4102, ,Mantecada,3p ,157g ,TR
+4109, ,Tortilla,22p ,840g ,DH
+4118, ,Tortillas,None,g ,1kg
+4126, ,Pan,None,567g ,WON
+4135, ,Pan,None,g ,BIM
+4136, ,Pasteles,None,g ,MLA
+4139, ,Pan,None,g ,BIM
+4150, ,Bollo,6p ,585g ,BIM
+4152, ,Medias,12p ,510g ,BIM
+4153, ,Pan,None,640g ,BIM
+4169, ,Mantecadas,2p ,5g ,BIM
+4189, ,Sponch,None,120g ,MLA
+4190, ,Sponch,None,120g ,MLA
+4220, ,Bigotes,None,60g ,TR
+4221, ,Bigotes,None,60g ,TR
+4234, ,Div,4p ,45g ,TR
+4240, ,Mantecadas,2p ,None,TR
+4245, ,Conchas,2p ,120g ,TR
+4259, ,Conchas,3p ,180g ,TR
+4270, ,Cuernitos,None,100g ,TR
+4280, ,Doraditas,None,110g ,TR
+4301, ,Medias,8p ,340g ,BIM
+4304, ,Mantecadas,2p ,95g ,TR
+4385, ,Tostada,30p ,360g ,MR
+4468, ,Wonder,None,680g ,WON
+4477, ,Tostada,20p ,240g ,MR
+4482, ,Chocochispas,None,220g ,LAR
+4512, ,Bollos,6p ,489g ,SL
+4513, ,Bollos,6p ,345g ,SL
+4514, ,Medias,6p ,470g ,SL
+4624, ,Cajeta,None,660g ,COR
+4733, ,Bimkingo,None,86g ,LON
+4767, ,Tostado,None,250g ,BIM
+4773, ,Tostada,30p ,360g ,MR
+4774, ,Pan,None,640g ,BIM
+4820, ,Super,12p ,650g ,WON
+4838, ,Pan,None,680g ,BIM
+4859, ,Sandwichon,None,115g ,LON
+4910, ,Empanizador,None,175g ,BIM
+4919, ,Cajeta,None,660g ,COR
+4943, ,Canelitas,None,250g ,MLA
+4944, ,Bimbolunch,6p ,354g ,BIM
+4946, ,Panera,14p ,65g ,TR
+4947, ,Baguette,None,g ,DH
+5000, ,Gansito,1p ,50g ,MLA
+5015, ,Triki,None,69g ,MLA
+5052, ,Nito,1p ,62g ,BIM
+5200, ,Coca,None,355ml ,CC
+5223, ,Coca,None,355ml ,CC
+5277, ,Barra,6p ,192g ,BIM
+5310, ,Gansito,None,50g ,MLA
+5328, ,Submarinos,3p ,105g ,MLA
+5337, ,Submarinos,3p ,105g ,MLA
+5340, ,Choco,2p ,80g ,MLA
+5345, ,Rollo,2p ,None,MLA
+5350, ,Pay,1p ,85g ,MLA
+5354, ,Pay,1p ,70g ,MLA
+5355, ,Napolitano,1p ,70g ,MLA
+5371, ,Bombonete,None,55g ,MLA
+5376, ,Rocko,10p ,44g ,MLA
+5380, ,Pinguinos,2p ,80g ,MLA
+5386, ,Choco,2p ,80g ,MLA
+5410, ,Canelitas,6p ,60g ,MLA
+5414, ,Canelitas,None,250g ,MLA
+5422, ,Triki,27p ,225g ,MLA
+5423, ,Plativolos,None,193g ,MLA
+5430, ,Triki,6p ,50g ,MLA
+5434, ,Sponch,6p ,90g ,MLA
+5453, ,Suavicremas,None,205g ,MLA
+5454, ,Suavicremas,None,205g ,MLA
+5456, ,Suavicremas,None,205g ,MLA
+5460, ,Polvorones,4p ,75g ,MLA
+5463, ,Polvoron,None,280g ,MLA
+5470, ,Principe,None,205g ,MLA
+5496, ,Plativolos,None,300g ,MLA
+5543, ,Gansito,5p ,250g ,MLA
+5544, ,Pinguinos,6p ,240g ,MLA
+5545, ,Choco,7p ,5g ,MLA
+5576, ,Triki,None,25g ,MLA
+5621, ,Submarinos,3p ,105g ,MLA
+5707, ,Tostada,30p ,None,MR
+5708, ,Polvoron,12p ,900g ,MLA
+5709, ,Plativolos,12p ,522g ,MLA
+5710, ,Canelitas,12p ,720g ,MLA
+5711, ,Sponch,None,540g ,MLA
+5712, ,Triki,None,600g ,MLA
+5713, ,Principe,None,610g ,MLA
+5714, ,Suavicremas,None,480g ,MLA
+5715, ,Barritas,12p ,804g ,MLA
+5716, ,Barritas,12p ,768g ,MLA
+5717, ,Suavicremas,None,480g ,MLA
+5718, ,Suavicremas,None,480g ,MLA
+5901, ,Chocotorro,1p ,50g ,MLA
+5917, ,Burritos,None,191g ,LON
+5918, ,Burritos,None,186g ,LON
+5919, ,Burritos,None,197g ,LON
+5921, ,Burritos,None,208g ,LON
+5948, ,Base,None,g ,MLA
+6066, ,Frute,None,54g ,MLA
+6085, ,Tostada,30p ,g ,MR
+6177, ,Chicharron,None,36g ,BAR
+6420, ,Tortilla,None,g ,BAR
+6437, ,Takis,None,62g ,BAR
+6456, ,Churritos,None,49g ,BAR
+6469, ,Totopos,None,280g ,DH
+6476, ,Tostachos,None,70g ,BAR
+6490, ,Chipotles,None,52g ,BAR
+6500, ,Burritos,None,186g ,LON
+6502, ,Burritos,None,197g ,LON
+6503, ,Burritos,None,208g ,LON
+6505, ,Burritos,None,191g ,LON
+6507, ,Bimkingo,None,135g ,LON
+6555, ,Takis,None,62g ,BAR
+6566, ,Bimkingo,None,86g ,LON
+6633, ,Pan,None,150g ,BIM
+6645, ,Tortinachos,None,g ,MR
+6657, ,Sandwichon,None,115g ,LON
+6667, ,Bimkingo,None,135g ,LON
+6700, ,Totopos,None,350g ,MR
+6820, ,Golden,None,20g ,BAR
+7144, ,Bollos,8p ,425g ,SL
+7145, ,Hot,16p ,570g ,SL
+7340, ,Bimkingo,None,g ,LON
+7342, ,Sandwichon,None,115g ,LON
+7724, ,Panditas,None,5g ,RIC
+7761, ,Bubulubu,None,20g ,RIC
+7814, ,Kranky,None,40g ,RIC
+7829, ,Bubulubu,1p ,35g ,RIC
+7884, ,Almendras,None,35g ,RIC
+8766, ,Cajeta,None,g ,COR
+8768, ,Cajeta,None,g ,COR
+8825, ,Obleas,10p ,None,COR
+8863, ,Medias,p ,1775g ,SL
+8864, ,Bollos,20p ,1730g ,SL
+8865, ,Bollos,30p ,1635g ,SL
+8874, ,Tortilla,10p ,260g ,DH
+8921, ,Tortilla,10p ,260g ,DH
+8931, ,Medias,None,290g ,BIM
+8940, ,Tortilla,10p ,260g ,DH
+9082, ,Dalmata,1p ,55g ,MLA
+9197, ,Barritas,None,32g ,MLA
+9217, ,Cuernitos,3p ,150g ,TR
+9248, ,Dulcigomas,None,49g ,RIC
+9249, ,Canelitas,None,30g ,MLA
+9302, ,Principe,None,5g ,MLA
+9416, ,Chocoretas,None,10g ,RIC
+9699, ,Mentho,None,30g ,RIC
+9711, ,Oatnut,None,680g ,ORO
+9717, ,Pan,None,680g ,ORO
+9753, ,100pct,None,680g ,ORO
+9756, ,Butter,None,680g ,ORO
+9764, ,Bubulubu,None,70g ,RIC
+9798, ,Chicks,None,1470g ,CHK
+9853, ,Pasteles,None,500g ,MLA
+9869, ,Pan,None,470g ,BIM
+30007, ,Duo,None,124g ,BIM
+30008, ,Duo,None,124g ,BIM
+30009, ,Submarinos,3p ,105g ,MLA
+30010, ,Submarinos,3p ,105g ,MLA
+30011, ,Submarinos,3p ,105g ,MLA
+30012, ,Submarinos,3p ,105g ,MLA
+30014, ,Submarinos,3p ,105g ,MLA
+30015, ,Submarinos,3p ,105g ,MLA
+30091, ,Raztachoc,1p ,40g ,BIM
+30092, ,Raztachoc,1p ,40g ,BIM
+30099, ,Camioncitos,None,None,BIM
+30100, ,Trailer,None,20g ,BIM
+30110, ,Takis,None,56g ,BAR
+30111, ,Takis,None,56g ,BAR
+30112, ,Takis,None,56g ,BAR
+30137, ,Napi,None,25g ,MLA
+30172, ,Medias,8p ,340g ,BIM
+30173, ,Medias,8p ,340g ,BIM
+30177, ,Bran,6p ,240g ,BIM
+30178, ,Bran,6p ,240g ,BIM
+30187, ,Sprite,24p ,355ml ,CC
+30189, ,Fresca,24p ,355ml ,CC
+30190, ,Fanta,24p ,355ml ,CC
+30191, ,Manzana,24p ,355ml ,CC
+30194, ,Tostada,30p ,360g ,MR
+30195, ,Tostada,30p ,360g ,MR
+30214, ,Tartinas,8p ,104g ,TR
+30215, ,Tartinas,8p ,104g ,TR
+30218, ,Bran,None,48g ,BIM
+30227, ,Tortilla,10p ,220g ,DH
+30235, ,Barritas,8p ,600g ,MLA
+30236, ,Barritas,8p ,600g ,MLA
+30249, ,Tartinas,8p ,104g ,TR
+30250, ,Tartinas,8p ,104g ,TR
+30251, ,Tartinas,8p ,104g ,TR
+30252, ,Tartinas,8p ,104g ,TR
+30265, ,Bran,None,48g ,BIM
+30266, ,Bran,None,48g ,BIM
+30280, ,Camioncito,None,None,BIM
+30289, ,Pan,None,567g ,BIM
+30302, ,Tostado,None,210g ,BIM
+30305, ,Tostado,None,210g ,BIM
+30306, ,Tostado,None,210g ,BIM
+30314, ,Canelitas,None,360g ,MLA
+30315, ,Polvorones,None,450g ,MLA
+30332, ,Leche,24p ,None,MLA
+30349, ,Mini,None,30g ,MLA
+30354, ,Polvorones,None,113g ,MLA
+30355, ,Polvorones,None,113g ,MLA
+30370, ,Tortillinas,12p ,310g ,TR
+30371, ,Tortillinas,12p ,310g ,TR
+30372, ,Tortillinas,12p ,310g ,TR
+30374, ,Tostado,None,270g ,BIM
+30375, ,Tostado,None,270g ,BIM
+30376, ,Tostado,None,270g ,BIM
+30378, ,Agua,12p ,600ml ,CC
+30379, ,Agua,24p ,600ml ,CC
+30380, ,Agua,12p ,600ml ,CC
+30381, ,Agua,24p ,600ml ,CC
+30383, ,Agua,24p ,600ml ,CC
+30384, ,Coca,12p ,355ml ,CC
+30385, ,Coca,12p ,355ml ,CC
+30387, ,Manzana,12p ,355ml ,CC
+30393, ,Powerade,12p ,600ml ,CC
+30397, ,Barra,6p ,31g ,MP
+30399, ,Lata,None,454g ,GBI
+30403, ,Pan,None,370g ,BIM
+30408, ,Choco,2p ,67g ,MLA
+30409, ,Empanaditas,20p ,506g ,DH
+30413, ,Tortillinas,20p ,1020g ,TR
+30415, ,Polvoroncitos,8p ,130g ,TR
+30416, ,Polvoroncitos,8p ,130g ,TR
+30417, ,Polvoroncitos,8p ,130g ,TR
+30418, ,Silueta,None,22g ,BIM
+30419, ,Silueta,None,22g ,BIM
+30421, ,Silueta,6p ,132g ,BIM
+30422, ,Silueta,6p ,132g ,BIM
+30423, ,Silueta,6p ,132g ,BIM
+30424, ,Silueta,6p ,132g ,BIM
+30437, ,Rocks,6p ,45g ,MLA
+30461, ,Barra,None,25g ,BIM
+30473, ,Mi,None,25g ,MLA
+30475, ,Mini,5p ,65g ,TR
+30477, ,Panque,None,255g ,BIM
+30505, ,Tortillinas,22p ,570g ,TR
+30506, ,Tortillinas,22p ,570g ,TR
+30507, ,Tortillinas,22p ,570g ,TR
+30531, ,Principe,10p ,106g ,MLA
+30532, ,Principe,10p ,106g ,MLA
+30533, ,Principe,10p ,106g ,MLA
+30543, ,Principe,10p ,110g ,MLA
+30544, ,Principe,10p ,110g ,MLA
+30548, ,Suavicremas,None,84g ,MLA
+30549, ,Suavicremas,None,84g ,MLA
+30550, ,Suavicremas,None,84g ,MLA
+30551, ,Suavicremas,None,84g ,MLA
+30552, ,Suavicremas,None,84g ,MLA
+30553, ,Suavicremas,None,84g ,MLA
+30554, ,Suavicremas,None,84g ,MLA
+30555, ,Suavicremas,None,84g ,MLA
+30556, ,Suavicremas,None,84g ,MLA
+30562, ,Sandwich,None,112g ,LON
+30566, ,Joya,None,355ml ,CC
+30567, ,Joya,None,355ml ,CC
+30568, ,Barritas,None,67g ,MLA
+30569, ,Barritas,None,67g ,MLA
+30570, ,Barritas,None,67g ,MLA
+30571, ,Barritas,None,67g ,MLA
+30572, ,Barritas,None,67g ,MLA
+30573, ,Barritas,None,67g ,MLA
+30574, ,Barritas,None,67g ,MLA
+30575, ,Barritas,None,67g ,MLA
+30576, ,Barritas,None,67g ,MLA
+30581, ,Cuernito,None,80g ,LON
+30582, ,Sandwich,None,90g ,LON
+30584, ,Sand,None,86g ,LON
+30593, ,Lata,6p ,400g ,GBI
+30594, ,Lata,6p ,400g ,GBI
+30595, ,Lata,6p ,400g ,GBI
+30599, ,Wonder,None,680g ,WON
+30626, ,Rosca,None,430g ,TR
+30646, ,Bombonete,None,55g ,MLA
+30693, ,Polvoroncitos,8p ,130g ,TR
+30694, ,Polvoroncitos,8p ,130g ,TR
+30700, ,Barra,None,35g ,ORO
+30706, ,Bimbollos,6p ,480g ,BIM
+30707, ,Empanaditas,20p ,506g ,DH
+30723, ,Tuinky,4p ,152g ,WON
+30735, ,Leche,None,236ml ,BIM
+30746, ,Tostada,20p ,350g ,KOD
+30749, ,Tostada,50p ,585g ,DH
+30751, ,Barra,6p ,224g ,BIM
+30772, ,Tortilla,20p ,550g ,TR
+30773, ,Agua,12p ,600ml ,CC
+30784, ,Barra,1p ,34g ,BIM
+30785, ,Barra,1p ,32g ,BIM
+30805, ,Cuernitos,3p ,150g ,TR
+30813, ,Pipucho,None,50g ,MLA
+30814, ,Pipucho,None,49g ,MLA
+30815, ,Barra,1p ,34g ,BIM
+30827, ,Surtido,None,340g ,MP
+30830, ,Barra,1p ,32g ,BIM
+30831, ,Barra,1p ,32g ,BIM
+30832, ,Barra,1p ,32g ,BIM
+30859, ,Bisquet,None,115g ,TR
+30871, ,Empanaditas,20p ,None,DH
+30877, ,Duo,None,50g ,MLA
+30888, ,Empanaditas,20p ,None,DH
+30900, ,Sandwich,None,90g ,LON
+30904, ,Sandwich,None,112g ,LON
+30906, ,Cuernito,None,80g ,LON
+30916, ,Barri,12p ,37g ,BIM
+30917, ,Barri,None,37g ,BIM
+30919, ,Saladas,None,175g ,LAR
+30946, ,Bimbunuelos,2p ,33g ,BIM
+30954, ,Submarinos,4p ,140g ,MLA
+30957, ,Totopo,None,200g ,MR
+30958, ,Empanzador,None,None,BIM
+30971, ,Tartinas,8p ,104g ,TR
+30972, ,Tartinas,8p ,104g ,TR
+30973, ,Rielito,None,65g ,TR
+30980, ,Bolsa,None,100g ,TR
+30999, ,Duo,None,88g ,MLA
+31001, ,Duo,None,88g ,MLA
+31003, ,Mask,6p ,27g ,MSK
+31004, ,Mask,6p ,27g ,MSK
+31005, ,Tartinas,8p ,104g ,TR
+31006, ,Tartinas,8p ,104g ,TR
+31013, ,Gansi,1p ,50g ,MLA
+31015, ,Gansi,1p ,50g ,MLA
+31031, ,Tartinas,8p ,104g ,TR
+31032, ,Tartinas,8p ,104g ,TR
+31033, ,Tartinas,8p ,104g ,TR
+31067, ,Roscas,None,32g ,GBI
+31075, ,Galleta,8p ,100g ,TR
+31077, ,Galleta,8p ,100g ,TR
+31080, ,Submarinos,4p ,140g ,MLA
+31082, ,Submarinos,4p ,140g ,MLA
+31083, ,Submarinos,4p ,140g ,MLA
+31089, ,Chips,None,46g ,BAR
+31095, ,Conchas,3p ,180g ,TR
+31098, ,Cuernitos,3p ,150g ,TR
+31100, ,Cuernitos,3p ,150g ,TR
+31103, ,Doraditas,4p ,147g ,TR
+31118, ,Choco,3p ,101g ,MLA
+31119, ,Choco,3p ,101g ,MLA
+31120, ,Choco,3p ,101g ,MLA
+31123, ,Lonchera,None,284g ,GBI
+31142, ,Gansito,6p ,300g ,MLA
+31145, ,Gansito,6p ,312g ,MLA
+31147, ,Tortilla,10p ,220g ,DH
+31149, ,Barra,2p ,32g ,BIM
+31150, ,Barra,2p ,32g ,BIM
+31170, ,Tortilla,15p ,410g ,DH
+31177, ,Bollos,6p ,489g ,SL
+31184, ,Tostada,None,216g ,SAN
+31186, ,Tostada,None,216g ,SAN
+31187, ,Tostada,None,240g ,SAN
+31188, ,Tostada,None,240g ,SAN
+31189, ,Tostadita,None,120g ,SAN
+31190, ,Tostadita,None,120g ,SAN
+31191, ,Tostadita,None,184g ,SAN
+31192, ,Tostada,None,100g ,SAN
+31194, ,Tostada,None,150g ,SAN
+31197, ,Tostada,None,240g ,SAN
+31198, ,Salmas,None,144g ,SAN
+31199, ,Salmas,None,144g ,SAN
+31200, ,Salmas,None,414g ,SAN
+31201, ,Nachos,None,250g ,SAN
+31203, ,Tostada,None,200g ,SAN
+31207, ,Tostada,None,600g ,SAN
+31211, ,Churritos,None,60g ,BAR
+31221, ,Mini,3p ,75g ,MLA
+31222, ,Mini,3p ,75g ,MLA
+31231, ,Barra,6p ,198g ,BIM
+31232, ,Barra,6p ,198g ,BIM
+31245, ,Bran,20p ,None,BIM
+31246, ,Bubulubu,None,70g ,RIC
+31267, ,DuoPack,None,480g ,BIM
+31274, ,Roles,4p ,240g ,BIM
+31277, ,Rebanada,4p ,110g ,BIM
+31278, ,Rebanada,4p ,110g ,BIM
+31279, ,Rebanada,4p ,110g ,BIM
+31283, ,Bimbunuelos,6p ,99g ,BIM
+31284, ,Bimbunuelos,6p ,99g ,BIM
+31298, ,Duo,None,210g ,TR
+31299, ,Duo,None,210g ,TR
+31307, ,Tostado,None,250g ,BIM
+31309, ,Canelitas,None,90g ,MLA
+31310, ,Canelitas,None,90g ,MLA
+31311, ,Canelitas,None,90g ,MLA
+31313, ,Duo,None,170g ,LAR
+31315, ,Gansi,1p ,50g ,MLA
+31316, ,Gansi,1p ,50g ,MLA
+31319, ,Hot,None,g ,BIM
+31320, ,Barra,12p ,None,BIM
+31322, ,Bran,18p ,None,BIM
+31333, ,Mini,None,120g ,GBI
+31338, ,Lors,8p ,74g ,MLA
+31339, ,Lors,8p ,74g ,MLA
+31340, ,Plativolos,8p ,64g ,MLA
+31341, ,Plativolos,8p ,64g ,MLA
+31392, ,Pan,None,640g ,BIM
+31393, ,Pan,None,640g ,BIM
+31394, ,Pan,None,640g ,BIM
+31403, ,Tortillinas,10p ,275g ,TR
+31420, ,Bran,None,55g ,BIM
+31421, ,Bran,None,55g ,BIM
+31423, ,Donas,10p ,158g ,BIM
+31445, ,Barra,12p ,384g ,BIM
+31447, ,Duo,None,60g ,BIM
+31457, ,Mantecadas,6p ,188g ,BIM
+31466, ,Principe,14p ,152g ,MLA
+31467, ,Principe,14p ,152g ,MLA
+31468, ,Lors,18p ,148g ,MLA
+31469, ,Lors,18p ,148g ,MLA
+31470, ,Triki,20p ,174g ,MLA
+31471, ,Triki,20p ,174g ,MLA
+31473, ,Salmas,None,360g ,SAN
+31474, ,Salmas,None,108g ,SAN
+31476, ,Tripack,None,200g ,SAN
+31484, ,Plativolos,18p ,144g ,MLA
+31485, ,Plativolos,18p ,144g ,MLA
+31497, ,Thins,None,340g ,ORO
+31498, ,Thins,None,340g ,ORO
+31499, ,Thins,None,340g ,ORO
+31500, ,Thins,None,340g ,ORO
+31502, ,Tostado,None,250g ,BIM
+31504, ,Tostado,None,250g ,BIM
+31506, ,Polvoron,6p ,113g ,MLA
+31507, ,Polvoron,6p ,113g ,MLA
+31508, ,Polvoron,6p ,113g ,MLA
+31510, ,Canelitas,50p ,275g ,MLA
+31511, ,Canelitas,33p ,180g ,MLA
+31512, ,Canelitas,33p ,180g ,MLA
+31513, ,Polvorones,18p ,250g ,MLA
+31514, ,Polvorones,18p ,250g ,MLA
+31516, ,Polvorones,27p ,385g ,MLA
+31518, ,Plativolos,None,691g ,MLA
+31519, ,Polvorones,None,1058g ,MLA
+31520, ,Principe,None,719g ,MLA
+31524, ,Salmas,None,108g ,SAN
+31535, ,Medias,10p ,430g ,BIM
+31574, ,Galleta,12p ,150g ,TR
+31575, ,Polvoroncitos,12p ,195g ,TR
+31579, ,Suavicremas,None,237g ,MLA
+31580, ,Suavicremas,None,237g ,MLA
+31581, ,Suavicremas,None,237g ,MLA
+31582, ,Suavicremas,None,158g ,MLA
+31583, ,Suavicremas,None,237g ,MLA
+31584, ,Suavicremas,None,237g ,MLA
+31585, ,Suavicremas,None,237g ,MLA
+31586, ,Suavicremas,None,158g ,MLA
+31587, ,Suavicremas,None,237g ,MLA
+31588, ,Suavicremas,None,237g ,MLA
+31589, ,Suavicremas,None,237g ,MLA
+31590, ,Suavicremas,None,158g ,MLA
+31593, ,Polvorones,None,605g ,MLA
+31594, ,Triki,None,417g ,MLA
+31596, ,Sponch,None,675g ,MLA
+31599, ,Deliciosas,None,90g ,LAR
+31600, ,Deliciosas,None,90g ,LAR
+31609, ,Deliciosas,None,160g ,LAR
+31610, ,Deliciosas,None,160g ,LAR
+31612, ,Deliciosas,None,380g ,LAR
+31613, ,Deliciosas,None,380g ,LAR
+31618, ,Chocochispas,None,80g ,LAR
+31619, ,Chocochispas,None,80g ,LAR
+31621, ,Chocochispas,None,170g ,LAR
+31622, ,Chocochispas,None,170g ,LAR
+31624, ,Chocochispas,None,280g ,LAR
+31625, ,Chocochispas,None,280g ,LAR
+31626, ,Chocochispas,None,280g ,LAR
+31627, ,Canapinas,None,140g ,LAR
+31628, ,Canapinas,None,140g ,LAR
+31655, ,Deliciosas,None,160g ,LAR
+31656, ,Deliciosas,None,160g ,LAR
+31667, ,Sandwich,None,90g ,LON
+31668, ,Sand,None,86g ,LON
+31669, ,Sandwich,None,97g ,LON
+31670, ,Sandwich,None,112g ,LON
+31684, ,Big,None,g ,DH
+31686, ,Big,None,g ,DH
+31687, ,Big,None,g ,DH
+31688, ,Big,None,g ,DH
+31689, ,Big,None,g ,DH
+31690, ,Tostado,None,250g ,BIM
+31695, ,Principe,None,392g ,MLA
+31699, ,Barra,1p ,48g ,BIM
+31710, ,Bagels,None,567g ,THO
+31711, ,English,None,340g ,THO
+31716, ,Duo,None,170g ,LAR
+31717, ,Bigotes,None,60g ,TR
+31718, ,Rielito,None,65g ,TR
+31719, ,Mantecadas,2p ,105g ,TR
+31720, ,Mantecadas,2p ,95g ,TR
+31730, ,Rebanadas,None,220g ,BIM
+31744, ,Barra,1p ,48g ,BIM
+31763, ,Bollos,6p ,480g ,SUN
+31766, ,Plativolos,18p ,144g ,MLA
+31767, ,Principe,14p ,152g ,MLA
+31768, ,Canelitas,33p ,180g ,MLA
+31769, ,Polvorones,18p ,250g ,MLA
+31770, ,Triki,20p ,174g ,MLA
+31771, ,Tortillas,None,800g ,MR
+31775, ,Bran,None,320g ,BIM
+31778, ,Tortillas,None,800g ,MR
+31779, ,Suavicremas,None,158g ,MLA
+31780, ,Suavicremas,None,158g ,MLA
+31781, ,Suavicremas,None,158g ,MLA
+31782, ,Suavicremas,None,158g ,MLA
+31783, ,Suavicremas,None,158g ,MLA
+31784, ,Suavicremas,None,158g ,MLA
+31799, ,Sandwichera,None,72g ,BIM
+31803, ,Duo,p ,170g ,LAR
+31804, ,Duo,None,170g ,LAR
+31827, ,Deliciosas,None,160g ,LAR
+31828, ,Deliciosas,None,160g ,LAR
+31829, ,Deliciosas,None,160g ,LAR
+31847, ,Tortillas,18p ,630g ,DH
+31861, ,Spirrones,None,25g ,BAR
+31868, ,Bran,None,55g ,BIM
+31880, ,Bimbollos,12p ,1170g ,BIM
+31905, ,Galleta,None,g ,DIF
+31946, ,Pack,None,528g ,GBI
+31964, ,Mini,5p ,150g ,MLA
+31971, ,Barri,None,37g ,BIM
+31974, ,Chicks,12p ,4g ,CHK
+31977, ,Tost,None,308g ,SAN
+31997, ,Panque,None,255g ,BIM
+32015, ,Salmas,None,18g ,SAN
+32026, ,Tostada,None,216g ,SAN
+32027, ,Tostada,None,240g ,SAN
+32035, ,Salmas,None,108g ,SAN
+32037, ,Nachos,None,250g ,SAN
+32045, ,Duo,None,66g ,BIM
+32046, ,Duo,None,66g ,BIM
+32053, ,Tostado,None,270g ,BIM
+32078, ,Salmas,None,208g ,SAN
+32092, ,Bimbollos,6p ,480g ,BIM
+32132, ,Salmas,None,108g ,SAN
+32134, ,Mantecadas,6p ,184g ,BIM
+32141, ,Mantecadas,None,375g ,BIM
+32142, ,Donas,None,420g ,BIM
+32143, ,Donitas,None,525g ,BIM
+32144, ,Nito,None,620g ,BIM
+32168, ,Triki,6p ,60g ,MLA
+32173, ,Raztachoc,6p ,30g ,BIM
+32204, ,Churritos,None,60g ,BAR
+32207, ,Marias,None,170g ,LAR
+32220, ,Sandwich,None,90g ,LON
+32221, ,Sandwich,None,112g ,LON
+32222, ,Cuernito,None,80g ,LON
+32223, ,Sandwich,None,97g ,LON
+32224, ,Sand,None,86g ,LON
+32263, ,Tostada,18p ,216g ,MR
+32274, ,Duo,None,1134g ,BIM
+32275, ,Duo,None,1134g ,BIM
+32277, ,Duo,None,960g ,BIM
+32278, ,Duo,None,960g ,BIM
+32279, ,Duo,None,960g ,BIM
+32280, ,Duo,None,1134g ,BIM
+32281, ,Duo,None,1134g ,BIM
+32282, ,Duo,None,1134g ,BIM
+32283, ,Duo,None,1134g ,BIM
+32284, ,Duo,None,1134g ,BIM
+32285, ,Duo,None,1134g ,BIM
+32286, ,Duo,None,920g ,BIM
+32287, ,Duo,None,920g ,BIM
+32288, ,Duo,None,920g ,BIM
+32289, ,Duo,None,908g ,BIM
+32290, ,Duo,None,908g ,BIM
+32294, ,Duo,None,1000g ,BIM
+32295, ,Duo,None,1000g ,BIM
+32297, ,Decanelas,None,83g ,LAR
+32298, ,Decanelas,None,83g ,LAR
+32301, ,Bimbunuelos,2p ,33g ,BIM
+32302, ,Chocotorro,1p ,50g ,MLA
+32303, ,Bigotes,None,60g ,TR
+32304, ,Bigotes,None,60g ,TR
+32305, ,Orejas,None,70g ,TR
+32311, ,Tortilla,15p ,320g ,DH
+32322, ,Tortilla,10p ,260g ,DH
+32323, ,Tortilla,5p ,280g ,DH
+32334, ,Tost,None,216g ,SAN
+32335, ,Tost,None,240g ,SAN
+32336, ,Salmas,36p ,612g ,SAN
+32341, ,Rosquilla,None,48g ,TR
+32353, ,Tortillas,18p ,630g ,DH
+32360, ,Canelitas,33p ,180g ,MLA
+32361, ,Canelitas,33p ,180g ,MLA
+32363, ,Duo,None,148g ,MLA
+32364, ,Duo,None,148g ,MLA
+32366, ,Lors,18p ,148g ,MLA
+32367, ,Lors,18p ,148g ,MLA
+32369, ,Plativolos,18p ,144g ,MLA
+32370, ,Plativolos,18p ,144g ,MLA
+32371, ,Plativolos,18p ,144g ,MLA
+32372, ,Polvorones,18p ,250g ,MLA
+32373, ,Polvorones,18p ,250g ,MLA
+32375, ,Principe,14p ,152g ,MLA
+32376, ,Principe,14p ,152g ,MLA
+32378, ,Triki,20p ,174g ,MLA
+32379, ,Triki,20p ,174g ,MLA
+32382, ,Triki,20p ,174g ,MLA
+32393, ,Rebanada,2p ,55g ,BIM
+32394, ,Rebanada,2p ,55g ,BIM
+32395, ,Rebanada,2p ,55g ,BIM
+32408, ,Tortilla,15p ,410g ,DH
+32409, ,Tortilla,15p ,410g ,DH
+32410, ,Pan,None,340g ,TR
+32420, ,Tortilla,10p ,260g ,DH
+32421, ,Tortilla,10p ,260g ,DH
+32426, ,Tostachos,None,75g ,BAR
+32428, ,Tartinas,12p ,156g ,TR
+32433, ,Duo,None,120g ,MLA
+32434, ,Duo,None,120g ,MLA
+32436, ,Salmas,None,24g ,SAN
+32441, ,Tripack,None,720g ,SAN
+32465, ,Tostada,None,240g ,SAN
+32472, ,Tostada,None,240g ,SAN
+32480, ,Combo,2p ,200g ,SAN
+32491, ,Sand,None,86g ,LON
+32492, ,Sandwich,None,97g ,LON
+32514, ,Mis,2p ,20g ,MLA
+32518, ,Polvorones,1p ,19g ,MLA
+32535, ,Galleta,3p ,62g ,MLA
+32536, ,Galleta,3p ,62g ,MLA
+32538, ,Mi,None,5g ,MLA
+32541, ,Mi,None,5g ,MLA
+32542, ,Mi,None,5g ,MLA
+32544, ,Lata,None,150g ,GBI
+32546, ,Mini,4p ,52g ,MLA
+32552, ,Canapinas,10p ,30g ,LAR
+32554, ,Marias,None,170g ,LAR
+32556, ,Mi,None,32g ,BIM
+32557, ,Mi,None,32g ,BIM
+32558, ,Mi,None,32g ,BIM
+32575, ,Lors,8p ,74g ,MLA
+32578, ,Plativolos,8p ,64g ,MLA
+32589, ,Saladas,None,175g ,LAR
+32590, ,Saladas,None,175g ,LAR
+32591, ,Saladas,None,175g ,LAR
+32594, ,Lata,None,330g ,GBI
+32635, ,Star,8p ,8g ,SKD
+32637, ,Super,6p ,480g ,WON
+32639, ,Tubo,8p ,215g ,MLA
+32640, ,Tubo,8p ,215g ,MLA
+32641, ,Tubo,8p ,215g ,MLA
+32642, ,Galleta,8p ,496g ,MLA
+32668, ,Thins,None,680g ,BIM
+32669, ,Lata,None,300g ,GBI
+32685, ,Pan,None,680g ,BIM
+32719, ,Mini,None,170g ,GBI
+32749, ,Tortilla,15p ,410g ,DH
+32798, ,Galleta,None,62g ,MLA
+32799, ,Galleta,None,62g ,MLA
+32802, ,Tortillas,None,800g ,MR
+32804, ,Thins,None,340g ,BIM
+32815, ,Saladas,None,175g ,LAR
+32816, ,Saladas,None,175g ,LAR
+32817, ,Tiras,None,300g ,MR
+32819, ,Chocodonitas,6p ,102g ,BIM
+32820, ,Chocodonitas,6p ,102g ,BIM
+32830, ,Pan,None,240g ,BIM
+32838, ,Tortilla,10p ,275g ,TR
+32841, ,Tortilla,None,535g ,DH
+32842, ,Deliciosas,None,160g ,LAR
+32843, ,Deliciosas,None,160g ,LAR
+32845, ,Decanelas,None,83g ,LAR
+32846, ,Decanelas,None,83g ,LAR
+32848, ,Deliciosas,None,90g ,LAR
+32849, ,Deliciosas,None,90g ,LAR
+32850, ,Deliciosas,None,90g ,LAR
+32851, ,Deliciosas,None,160g ,LAR
+32852, ,Deliciosas,None,160g ,LAR
+32854, ,Deliciosas,None,160g ,LAR
+32855, ,Deliciosas,None,160g ,LAR
+32857, ,Deliciosas,None,380g ,LAR
+32858, ,Deliciosas,None,380g ,LAR
+32860, ,Chocochispas,None,80g ,LAR
+32861, ,Chocochispas,None,80g ,LAR
+32862, ,Chocochispas,None,80g ,LAR
+32863, ,Chocochispas,None,170g ,LAR
+32864, ,Chocochispas,None,170g ,LAR
+32869, ,Canapinas,None,115g ,LAR
+32870, ,Canapinas,None,115g ,LAR
+32871, ,Canapinas,None,115g ,LAR
+32872, ,Canapinas,None,140g ,LAR
+32873, ,Canapinas,None,140g ,LAR
+32884, ,Deliciosas,None,160g ,LAR
+32885, ,Thins,None,340g ,ORO
+32886, ,Thins,None,340g ,ORO
+32891, ,Bolsa,None,280g ,GBI
+32894, ,Salmas,48p ,864g ,SAN
+32931, ,Tubix,4p ,33g ,MLA
+32932, ,Tubo,None,172g ,MLA
+32933, ,Lors,10p ,98g ,MLA
+32934, ,Lors,10p ,98g ,MLA
+32935, ,Lors,10p ,98g ,MLA
+32936, ,Plativolos,10p ,92g ,MLA
+32937, ,Plativolos,10p ,92g ,MLA
+32938, ,Plativolos,10p ,92g ,MLA
+32939, ,Principe,10p ,110g ,MLA
+32940, ,Principe,10p ,110g ,MLA
+32941, ,Principe,10p ,110g ,MLA
+32942, ,Tostada,None,216g ,SAN
+32952, ,Mi,5p ,125g ,MLA
+32953, ,Mi,5p ,125g ,MLA
+32954, ,Mi,5p ,125g ,MLA
+32956, ,Mi,5p ,125g ,MLA
+32958, ,Mi,6p ,180g ,MLA
+32959, ,Mi,6p ,180g ,MLA
+32960, ,Mi,6p ,180g ,MLA
+32961, ,Mi,6p ,180g ,MLA
+32962, ,Mi,6p ,180g ,MLA
+32963, ,Mi,6p ,180g ,MLA
+32965, ,Mi,6p ,150g ,MLA
+32967, ,Mi,6p ,180g ,MLA
+32974, ,Mi,10p ,250g ,MLA
+32975, ,Mi,10p ,250g ,MLA
+32978, ,Mi,10p ,250g ,MLA
+32980, ,Mi,10p ,300g ,MLA
+32981, ,Mi,10p ,300g ,MLA
+32983, ,Mi,10p ,300g ,MLA
+32984, ,Mi,10p ,300g ,MLA
+32997, ,Agua,None,600ml ,CC
+32999, ,Sandwich,None,g ,LON
+33004, ,Principe,8p ,60g ,MLA
+33011, ,Tostada,None,200g ,SAN
+33021, ,Bombonete,3p ,55g ,MLA
+33030, ,Sandwich,None,g ,LON
+33033, ,Cuernito,None,g ,LON
+33043, ,Triki,None,480g ,MLA
+33047, ,Mini,4p ,60g ,TR
+33048, ,Mini,4p ,60g ,TR
+33053, ,Leche,None,200ml ,MLA
+33054, ,Bimbollos,6p ,480g ,BIM
+33068, ,Tortilla,10p ,275g ,TR
+33074, ,Agua,None,600ml ,CC
+33114, ,Plativolos,10p ,92g ,MLA
+33175, ,Submarinos,None,114g ,MLA
+33185, ,Salmas,None,36g ,SAN
+33188, ,Tortillas,18p ,630g ,DH
+33189, ,Panera,12p ,630g ,BIM
+33190, ,Charola,15p ,5g ,BIM
+33191, ,Charola,10p ,625g ,BIM
+33192, ,Tortilla,11p ,286g ,DH
+33196, ,Tortilla,11p ,286g ,DH
+33198, ,Bollo,40p ,2880g ,BIM
+33204, ,Triki,20p ,174g ,MLA
+33205, ,Triki,20p ,174g ,MLA
+33207, ,Lors,None,75g ,MLA
+33208, ,Lors,None,75g ,MLA
+33241, ,Dutch,None,400g ,WON
+33242, ,Dutch,None,400g ,WON
+33243, ,Dutch,None,400g ,WON
+33244, ,Surtido,None,220g ,MLA
+33245, ,Surtido,None,440g ,MLA
+33246, ,Surtido,None,660g ,MLA
+33254, ,Paleton,None,50g ,LC
+33260, ,Panera,12p ,630g ,BIM
+33261, ,Charola,15p ,5g ,BIM
+33262, ,Charola,10p ,625g ,BIM
+33263, ,Charola,10p ,625g ,BIM
+33264, ,Charola,15p ,930g ,BIM
+33265, ,Charola,15p ,930g ,BIM
+33266, ,Charola,12p ,840g ,BIM
+33267, ,Charola,12p ,840g ,BIM
+33286, ,Salmas,None,36g ,SAN
+33292, ,Burrito,None,90g ,LON
+33294, ,Burrito,None,90g ,LON
+33295, ,Burrito,None,90g ,LON
+33297, ,Triki,None,60g ,MLA
+33298, ,Triki,None,60g ,MLA
+33300, ,Medias,10p ,430g ,BIM
+33302, ,Bolsa,None,500g ,BIM
+33329, ,Rocks,6p ,45g ,MLA
+33334, ,Costalito,None,1200g ,GBI
+33342, ,Cuernito,None,g ,LON
+33353, ,Principe,8p ,60g ,MLA
+33359, ,Bolsita,None,160g ,GBI
+33366, ,Barri,None,37g ,BIM
+33370, ,Tortilla,8p ,220g ,DH
+33381, ,Totopos,None,850g ,SAN
+33382, ,Totopos,None,200g ,SAN
+33426, ,Surtido,None,375g ,GBI
+33429, ,Surtido,None,375g ,GBI
+33432, ,Tartaletas,None,375g ,GBI
+33643, ,Besos,None,375g ,GBI
+33647, ,Surtido,None,340g ,GBI
+33648, ,Besos,None,340g ,GBI
+33649, ,Chispas,None,340g ,GBI
+33657, ,Deliciosas,None,180g ,LAR
+33663, ,Bran,None,48g ,BIM
+33664, ,Bran,6p ,240g ,BIM
+33671, ,Lors,None,167g ,MLA
+33672, ,Lors,None,167g ,MLA
+33673, ,Lors,None,167g ,MLA
+33678, ,Dutch,None,400g ,WON
+33679, ,Dutch,None,400g ,WON
+33680, ,Dutch,None,400g ,WON
+33681, ,Dutch,None,400g ,WON
+33682, ,Dutch,None,400g ,WON
+33683, ,Dutch,None,400g ,WON
+33687, ,Bolsita,None,280g ,GBI
+33688, ,Bolsita,None,160g ,GBI
+33690, ,Bolsita,None,160g ,GBI
+33691, ,Bolsita,None,260g ,GBI
+33693, ,Bolsita,None,350g ,GBI
+33699, ,Galleta,3p ,62g ,MLA
+33700, ,Galleta,3p ,62g ,MLA
+33708, ,Sandwichera,None,72g ,BIM
+33715, ,Bran,None,48g ,BIM
+33734, ,Galleta,8p ,100g ,TR
+33735, ,Galleta,8p ,100g ,TR
+33736, ,Galleta,8p ,100g ,TR
+33737, ,Galleta,8p ,100g ,TR
+33740, ,Panera,12p ,630g ,BIM
+33741, ,Charola,15p ,5g ,BIM
+33742, ,Charola,15p ,930g ,BIM
+33743, ,Charola,12p ,840g ,BIM
+33763, ,Galleta,3p ,62g ,MLA
+33768, ,Salmas,18p ,108g ,SAN
+33769, ,Salmas,20p ,360g ,SAN
+33773, ,Deliciosas,None,25g ,LAR
+33779, ,Marias,None,24g ,LAR
+33794, ,Salmas,None,12g ,SAN
+33822, ,Triki,5p ,60g ,MLA
+33841, ,Triki,None,60g ,MLA
+33842, ,Galleta,3p ,62g ,MLA
+33845, ,Max,2p ,25g ,VER
+33853, ,Surtido,None,200g ,GBI
+33862, ,Choco,None,None,MLA
+33863, ,Choco,None,None,MLA
+33866, ,Rollo,2p ,80g ,MLA
+33871, ,Principe,8p ,60g ,MLA
+33872, ,Principe,8p ,60g ,MLA
+33875, ,Lapicera,None,100g ,GBI
+33879, ,Chocochispas,5p ,80g ,LAR
+33889, ,Bolsita,None,25g ,GBI
+33902, ,Hot,None,50g ,BAR
+33909, ,Galleta,None,27g ,TR
+33912, ,Bran,None,25g ,BIM
+34018, ,Submarinos,None,25g ,MLA
+34020, ,Submarinos,None,25g ,MLA
+34021, ,Submarinos,None,25g ,MLA
+34025, ,Lonchito,None,133g ,LON
+34044, ,Bigotes,None,60g ,TR
+34048, ,Mantecadas,2p ,105g ,TR
+34050, ,Tortillas,6p ,300g ,DH
+34053, ,Nito,1p ,62g ,BIM
+34054, ,Nito,1p ,62g ,BIM
+34055, ,Nito,1p ,62g ,BIM
+34056, ,Galleta,None,62g ,MLA
+34067, ,Lonchibox,None,90g ,LON
+34068, ,Lonchibox,None,86g ,LON
+34069, ,Lonchibox,None,91g ,LON
+34071, ,Lonchibox,None,80g ,LON
+34077, ,Barritas,None,5g ,MLA
+34078, ,Barritas,None,5g ,MLA
+34080, ,Barritas,None,5g ,MLA
+34081, ,Barritas,None,5g ,MLA
+34083, ,Canelitas,None,20g ,MLA
+34084, ,Canelitas,None,20g ,MLA
+34087, ,Triki,3p ,25g ,MLA
+34089, ,Tortilla,10p ,535g ,DH
+34111, ,Pan,None,567g ,PUL
+34118, ,Bolsita,None,25g ,GBI
+34122, ,Pan,2p ,61g ,BIM
+34124, ,Fruttimania,None,10g ,RIC
+34178, ,Hot,8p ,g ,BIM
+34185, ,Panquecitos,2p ,140g ,BIM
+34187, ,Salma,43p ,516g ,SAN
+34195, ,Spina,None,43g ,MLA
+34200, ,Papatinas,None,50g ,BAR
+34204, ,Bimbollos,8p ,450g ,BIM
+34205, ,Bimbollos,12p ,675g ,BIM
+34206, ,Medias,8p ,340g ,BIM
+34207, ,Medias,10p ,430g ,BIM
+34208, ,Tostado,None,210g ,BIM
+34210, ,Super,None,740g ,BIM
+34211, ,Pan,None,460g ,BIM
+34212, ,Pan,None,640g ,BIM
+34213, ,Pan,None,640g ,BIM
+34215, ,Pan,None,360g ,BIM
+34225, ,Magnas,None,200g ,LAR
+34226, ,Magnas,None,200g ,LAR
+34227, ,Magnas,None,200g ,LAR
+34255, ,Tostada,30p ,360g ,MR
+34256, ,Tostada,18p ,216g ,MR
+34257, ,Tostada,15p ,175g ,MR
+34258, ,Totopo,None,500g ,MR
+34259, ,Barra,None,634g ,MP
+34264, ,Bimbollos,6p ,480g ,BIM
+34292, ,Pan,None,370g ,BIM
+34299, ,Tortilla,20p ,500g ,TR
+34301, ,Tortilla,10p ,275g ,WON
+34302, ,Tortilla,10p ,275g ,WON
+34326, ,Galleta,20p ,1240g ,MLA
+34327, ,Mantecadas,8p ,250g ,BIM
+34328, ,Mantecadas,8p ,250g ,BIM
+34333, ,Galleta,3p ,62g ,MLA
+34337, ,Galleta,3p ,62g ,MLA
+34348, ,Principe,20p ,1724g ,MLA
+34355, ,Tostachos,None,70g ,BAR
+34370, ,Duo,None,34g ,BIM
+34373, ,Bollos,None,1350g ,SL
+34389, ,Kranky,None,38g ,RIC
+34403, ,Tartina,2p ,26g ,TR
+34425, ,Pachoncitos,None,70g ,TR
+34426, ,Duo,None,34g ,BIM
+34427, ,Duo,None,34g ,BIM
+34429, ,Doraditas,None,110g ,TR
+34430, ,Doraditas,None,110g ,TR
+34433, ,Tortilla,12p ,258g ,DH
+34439, ,Fruttimania,None,8g ,RIC
+34440, ,Fruttimania,None,8g ,RIC
+34452, ,Pan,None,567g ,MP
+34468, ,Pan,6p ,440g ,BIM
+34469, ,Pan,6p ,440g ,BIM
+34486, ,Duo,None,130g ,TR
+34487, ,Duo,None,130g ,TR
+34495, ,Flow,None,200g ,GBI
+34542, ,Sponch,6p ,90g ,MLA
+34546, ,Chocotorro,1p ,50g ,MLA
+34547, ,Suavicremas,None,158g ,MLA
+34548, ,Suavicremas,None,158g ,MLA
+34550, ,Suavicremas,None,158g ,MLA
+34551, ,Suavicremas,None,158g ,MLA
+34553, ,Suavicremas,None,158g ,MLA
+34554, ,Suavicremas,None,158g ,MLA
+34577, ,Barra,20p ,440g ,BIM
+34585, ,Hamburguesa,None,145g ,LON
+34616, ,Duo,None,105g ,MLA
+34617, ,Duo,None,105g ,MLA
+34618, ,Duo,None,105g ,MLA
+34627, ,Galleta,None,g ,MLA
+34643, ,Burrito,None,90g ,LON
+34644, ,Burrito,None,90g ,LON
+34645, ,Burrito,None,90g ,LON
+34646, ,Burrito,None,None,LON
+34647, ,Burrito,None,90g ,LON
+34665, ,Paneton,None,900g ,BIM
+34666, ,Pan,4p ,680g ,BIM
+34670, ,Salmas,20p ,360g ,SAN
+34682, ,Pastisetas,6p ,75g ,SUA
+34683, ,Pastisetas,6p ,75g ,SUA
+34702, ,Duo,None,105g ,MLA
+34703, ,Duo,None,105g ,MLA
+34704, ,Duo,None,105g ,MLA
+34737, ,Tartinas,8p ,104g ,TR
+34738, ,Tartinas,8p ,104g ,TR
+34747, ,Tostada,None,240g ,SAN
+34768, ,Raztachoc,5p ,40g ,BIM
+34769, ,Raztachoc,5p ,40g ,BIM
+34770, ,Raztachoc,5p ,40g ,BIM
+34775, ,Roles,3p ,180g ,BIM
+34776, ,Roles,3p ,202g ,BIM
+34781, ,Blister,None,8g ,SKD
+34782, ,Blister,None,8g ,SKD
+34783, ,Blister,None,8g ,SKD
+34785, ,Pan,None,480g ,BIM
+34786, ,Pan,None,680g ,BIM
+34787, ,Pan,None,1360g ,BIM
+34793, ,Bimbollos,18p ,1440g ,BIM
+34794, ,Super,8p ,540g ,WON
+34801, ,Pan,None,500g ,BIM
+34802, ,Pan,None,540g ,BIM
+34850, ,Bimbollos,6p ,480g ,BIM
+34851, ,Medias,16p ,680g ,BIM
+34854, ,Duo,None,960g ,BIM
+34865, ,Pan,None,680g ,BIM
+34866, ,Pan,None,567g ,SUN
+34867, ,Pan,None,1360g ,BIM
+34868, ,Rebanada,2p ,55g ,BIM
+34869, ,Rebanada,2p ,55g ,BIM
+34876, ,Bollos,6p ,480g ,SUN
+34885, ,Barra,8p ,22g ,BIM
+34888, ,Duo,None,44g ,BIM
+34889, ,Duo,None,44g ,BIM
+34891, ,Tostada,20p ,350g ,KOD
+34892, ,Tostada,30p ,360g ,MR
+34893, ,Duo,None,1000g ,BIM
+34894, ,Duo,None,1080g ,BIM
+34901, ,Duo,None,920g ,BIM
+34904, ,Principe,8p ,360g ,MLA
+34909, ,Marias,None,g ,LAR
+34913, ,Totopos,None,350g ,MR
+34914, ,Totopos,None,280g ,DH
+34915, ,Bimbunuelos,12p ,198g ,BIM
+34916, ,Bimbunuelos,12p ,198g ,BIM
+34917, ,Galleta,None,50g ,GBI
+34933, ,Tostado,None,420g ,BIM
+34935, ,Cajilla,None,1925g ,BIM
+34936, ,Barra,None,50g ,BIM
+34937, ,Bar,None,50g ,BIM
+34938, ,Donas,10p ,158g ,BIM
+34939, ,Donas,10p ,158g ,BIM
+34943, ,Barritas,None,67g ,MLA
+34944, ,Barritas,None,67g ,MLA
+34945, ,Barritas,None,67g ,MLA
+34958, ,Bolsa,None,13g ,MLA
+34959, ,Mini,45p ,13g ,MLA
+34973, ,Barritas,20p ,1340g ,MLA
+34983, ,Tortilla,10p ,275g ,TR
+34984, ,Tortilla,10p ,275g ,TR
+34992, ,Conchas,3p ,180g ,BIM
+34993, ,Conchas,3p ,180g ,BIM
+35005, ,Duo,None,75g ,MLA
+35011, ,Orejitas,None,120g ,GBI
+35014, ,Lata,None,150g ,GBI
+35015, ,Lata,None,400g ,GBI
+35024, ,Canelitas,None,90g ,MLA
+35025, ,Polvoron,6p ,113g ,MLA
+35026, ,Galleta,None,g ,LAR
+35031, ,Kranky,None,44g ,RIC
+35051, ,Tri,None,150g ,MLA
+35052, ,Tri,None,150g ,MLA
+35053, ,Tri,None,150g ,MLA
+35054, ,Molido,None,210g ,WON
+35072, ,Besos,None,120g ,GBI
+35074, ,Tortillas,None,800g ,MR
+35079, ,Cuernitos,None,4000g ,TR
+35092, ,Duo,None,124g ,MLA
+35093, ,Duo,None,124g ,MLA
+35095, ,Salmas,None,18g ,SAN
+35097, ,Bollo,12p ,870g ,BIM
+35103, ,Deliciosas,None,75g ,LAR
+35104, ,Deliciosas,None,75g ,LAR
+35105, ,Deliciosas,None,75g ,LAR
+35106, ,Deliciosas,None,75g ,LAR
+35107, ,Deliciosas,None,75g ,LAR
+35108, ,Deliciosas,None,75g ,LAR
+35109, ,Deliciosas,None,180g ,LAR
+35110, ,Deliciosas,None,180g ,LAR
+35111, ,Deliciosas,None,180g ,LAR
+35112, ,Deliciosas,None,180g ,LAR
+35113, ,Deliciosas,None,180g ,LAR
+35114, ,Deliciosas,None,180g ,LAR
+35115, ,Deliciosas,None,300g ,LAR
+35116, ,Deliciosas,None,300g ,LAR
+35117, ,Deliciosas,None,300g ,LAR
+35118, ,Deliciosas,None,300g ,LAR
+35119, ,Deliciosas,None,300g ,LAR
+35120, ,Deliciosas,None,300g ,LAR
+35121, ,Deliciosas,None,180g ,LAR
+35122, ,Deliciosas,None,180g ,LAR
+35123, ,Deliciosas,None,180g ,LAR
+35124, ,Deliciosas,None,180g ,LAR
+35125, ,Deliciosas,None,180g ,LAR
+35127, ,Deliciosas,None,180g ,LAR
+35128, ,Deliciosas,None,180g ,LAR
+35129, ,Deliciosas,None,180g ,LAR
+35130, ,Deliciosas,None,180g ,LAR
+35131, ,Deliciosas,None,180g ,LAR
+35132, ,Deliciosas,None,180g ,LAR
+35141, ,Super,None,567g ,WON
+35142, ,Super,None,567g ,WON
+35143, ,Super,None,567g ,WON
+35144, ,Wonder,None,567g ,WON
+35145, ,Wonder,None,567g ,WON
+35146, ,Wonder,None,567g ,WON
+35147, ,Wonder,None,567g ,WON
+35148, ,Wonder,None,567g ,WON
+35149, ,Wonder,None,567g ,WON
+35150, ,Barra,None,50g ,BIM
+35171, ,Galleta,None,30g ,GBI
+35176, ,Conchas,2p ,120g ,TR
+35177, ,Conchas,2p ,120g ,TR
+35179, ,Tartinas,8p ,104g ,TR
+35180, ,Tartinas,8p ,104g ,TR
+35182, ,Tartinas,8p ,104g ,TR
+35183, ,Tartinas,8p ,104g ,TR
+35185, ,Tartinas,8p ,104g ,TR
+35186, ,Tartinas,8p ,104g ,TR
+35191, ,Duo,None,96g ,BIM
+35198, ,Duo,None,96g ,BIM
+35212, ,Panq,3p ,210g ,BIM
+35213, ,Panq,3p ,210g ,BIM
+35214, ,Bimbunuelos,12p ,198g ,BIM
+35215, ,Roles,3p ,180g ,BIM
+35217, ,Roles,3p ,202g ,BIM
+35219, ,Lata,None,340g ,GBI
+35222, ,Lata,None,378g ,GBI
+35226, ,Pallet,None,720g ,MLA
+35227, ,Bolsita,None,160g ,GBI
+35228, ,Orejitas,None,110g ,GBI
+35232, ,Super,None,680g ,WON
+35233, ,Super,None,680g ,WON
+35235, ,Wonder,None,680g ,WON
+35240, ,Mi,20p ,600g ,MLA
+35241, ,Mi,20p ,600g ,MLA
+35242, ,Mi,20p ,600g ,MLA
+35243, ,Mi,20p ,500g ,MLA
+35244, ,Mi,20p ,500g ,MLA
+35245, ,Mi,20p ,500g ,MLA
+35246, ,Mi,20p ,600g ,MLA
+35247, ,Mi,20p ,600g ,MLA
+35248, ,Mi,20p ,600g ,MLA
+35249, ,Besos,None,120g ,GBI
+35272, ,Combo,None,264g ,SAN
+35293, ,Bimbollos,8p ,450g ,BIM
+35294, ,Bimbollos,6p ,480g ,BIM
+35295, ,Tostado,None,210g ,BIM
+35301, ,Bimbollos,6p ,480g ,BIM
+35303, ,Barritas,None,75g ,MLA
+35304, ,Barritas,None,75g ,MLA
+35305, ,Barritas,None,75g ,MLA
+35306, ,Barritas,None,75g ,MLA
+35307, ,Barritas,None,75g ,MLA
+35308, ,Barritas,None,75g ,MLA
+35309, ,Barritas,None,75g ,MLA
+35310, ,Barritas,None,75g ,MLA
+35371, ,Penafiel,None,355ml ,AV
+35385, ,Bollo,30p ,2450g ,SL
+35401, ,Hot,8p ,g ,BIM
+35403, ,Mini,None,30g ,GBI
+35406, ,Two,None,800g ,GBI
+35412, ,Tartinas,4p ,52g ,TR
+35413, ,Tartinas,4p ,52g ,TR
+35424, ,Sponch,None,960g ,MLA
+35425, ,Bollos,6p ,345g ,SL
+35426, ,Medias,6p ,470g ,SL
+35427, ,DuoBarrita,None,137g ,MLA
+35428, ,DuoBarrita,None,None,MLA
+35429, ,Duo,None,110g ,MLA
+35430, ,Duo,None,110g ,MLA
+35434, ,Duo,None,60g ,MLA
+35438, ,Tortilla,10p ,260g ,DH
+35439, ,Barritas,8p ,300g ,MLA
+35440, ,Pan,None,270g ,BIM
+35441, ,Pan,None,270g ,BIM
+35442, ,Pan,None,250g ,BIM
+35443, ,Pan,20p ,225g ,BIM
+35444, ,Pan,None,180g ,BIM
+35445, ,Barri,12p ,37g ,BIM
+35452, ,Chocotorro,1p ,50g ,MLA
+35453, ,Chocotorro,1p ,50g ,MLA
+35454, ,Chocotorro,1p ,50g ,MLA
+35455, ,Dalmata,1p ,55g ,MLA
+35456, ,Dalmata,1p ,55g ,MLA
+35457, ,Dalmata,1p ,55g ,MLA
+35469, ,Roles,4p ,272g ,BIM
+35473, ,Medias,2p ,340g ,BIM
+35484, ,Choco,2p ,80g ,MLA
+35499, ,Bagel,None,369g ,THO
+35501, ,English,None,340g ,THO
+35510, ,Costalito,None,800g ,GBI
+35516, ,Canapinas,None,95g ,LAR
+35517, ,Canapinas,None,95g ,LAR
+35524, ,Galletas,None,1000g ,GBI
+35525, ,Triki,None,417g ,MLA
+35526, ,Principe,None,392g ,MLA
+35527, ,Polvorones,None,605g ,MLA
+35539, ,Choco,2p ,67g ,MLA
+35557, ,Duo,None,110g ,MLA
+35558, ,Duo,None,110g ,MLA
+35561, ,Duo,None,110g ,MLA
+35563, ,Bimbollos,6p ,480g ,BIM
+35564, ,Medias,8p ,340g ,BIM
+35565, ,Medias,None,290g ,BIM
+35567, ,Bollos,6p ,480g ,BIM
+35569, ,Bollos,12p ,960g ,BIM
+35570, ,Pan,None,567g ,MP
+35571, ,Pan,None,675g ,BIM
+35572, ,Tostado,None,250g ,BIM
+35575, ,Bolsita,None,100g ,GBI
+35576, ,Duo,None,110g ,MLA
+35578, ,Medias,8p ,340g ,BIM
+35587, ,Exhib,None,60g ,MLA
+35595, ,Super,None,740g ,BIM
+35598, ,Tostada,20p ,240g ,MR
+35599, ,Tostada,50p ,585g ,DH
+35602, ,Duo,None,102g ,MLA
+35604, ,Duo,None,100g ,MLA
+35605, ,Duo,None,100g ,MLA
+35614, ,Totopo,None,280g ,MR
+35618, ,Exhibidor,None,None,BIM
+35622, ,Canelitas,8p ,86g ,MLA
+35625, ,Galletas,3p ,33g ,MLA
+35626, ,Galletas,3p ,33g ,MLA
+35631, ,ActiFresh,6p ,27g ,RIC
+35632, ,ActiFresh,6p ,27g ,RIC
+35633, ,Duo,None,104g ,TR
+35634, ,Duo,None,104g ,TR
+35635, ,Deliciosas,None,180g ,LAR
+35644, ,Barras,21p ,924g ,BIM
+35651, ,Madalenas,3p ,93g ,BIM
+35660, ,Medias,10p ,430g ,BIM
+35689, ,Deliciosas,None,80g ,LAR
+35691, ,Deliciosas,None,80g ,LAR
+35693, ,Deliciosas,None,80g ,LAR
+35694, ,Deliciosas,None,170g ,LAR
+35695, ,Deliciosas,None,170g ,LAR
+35697, ,Deliciosas,None,170g ,LAR
+35698, ,Deliciosas,None,170g ,LAR
+35700, ,Deliciosas,None,280g ,LAR
+35701, ,Deliciosas,None,280g ,LAR
+35703, ,Deliciosas,None,280g ,LAR
+35704, ,Deliciosas,None,280g ,LAR
+35711, ,Triki,8p ,80g ,MLA
+35713, ,Super,12p ,g ,WON
+35714, ,Galleta,None,30g ,GBI
+35722, ,Tortillinas,15p ,390g ,TR
+35724, ,Duo,None,96g ,BIM
+35725, ,Duo,None,96g ,BIM
+35727, ,Tortillina,None,328g ,TR
+35728, ,Tortillina,None,328g ,TR
+35729, ,Tortillina,None,328g ,TR
+35737, ,Tostada,None,220g ,SAN
+35738, ,Tostada,None,200g ,SAN
+35739, ,Figatza,None,590g ,BIM
+35740, ,Figatza,None,590g ,BIM
+35744, ,Panques,3p ,765g ,BIM
+35753, ,Galletas,3p ,33g ,MLA
+35754, ,Galletas,3p ,33g ,MLA
+35756, ,Galletas,3p ,33g ,MLA
+35761, ,Deliciosas,None,180g ,LAR
+35763, ,Deliciosas,None,180g ,LAR
+35766, ,Besos,4p ,1500g ,GBI
+35783, ,Triki,8p ,80g ,MLA
+35784, ,Triki,None,80g ,MLA
+35785, ,Triki,None,80g ,MLA
+35792, ,Lata,None,500g ,GBI
+35793, ,Lata,None,300g ,GV
+35801, ,Bran,None,48g ,BIM
+35802, ,Bran,None,48g ,BIM
+35803, ,Bran,None,48g ,BIM
+35805, ,Relle,None,71g ,LON
+35807, ,Tostachos,None,75g ,BAR
+35821, ,Bran,None,32g ,BIM
+35822, ,Duo,None,93g ,BIM
+35825, ,Pachoncitos,None,70g ,TR
+35826, ,Pachoncitos,None,70g ,TR
+35827, ,Pachoncitos,None,70g ,TR
+35828, ,Medias,12p ,510g ,BIM
+35829, ,Medias,None,700g ,BIM
+35830, ,Bimbollos,8p ,780g ,BIM
+35831, ,Tortilla,19p ,520g ,DH
+35832, ,Barritas,None,75g ,MLA
+35833, ,Barritas,None,75g ,MLA
+35840, ,Triki,8p ,80g ,MLA
+35841, ,Triki,None,80g ,MLA
+35842, ,Super,8p ,435g ,WON
+35843, ,Wonder,None,680g ,WON
+35851, ,Pan,None,540g ,BIM
+35852, ,Pan,None,680g ,BIM
+35860, ,Duo,None,93g ,BIM
+35862, ,Triki,None,20g ,MLA
+35864, ,Cachitos,8p ,480g ,BIM
+35895, ,Bimkingo,None,150g ,LON
+35896, ,Bimkingo,None,150g ,LON
+35897, ,Sandwich,None,169g ,LON
+35898, ,Sandwich,None,169g ,LON
+35900, ,Canelitas,8p ,86g ,MLA
+35906, ,Nacho,None,300g ,MR
+35921, ,Costalito,None,1000g ,GBI
+35924, ,Tiras,None,300g ,MR
+35928, ,Madalena,1p ,31g ,BIM
+35933, ,Polvoroncitos,24p ,390g ,TR
+35935, ,Tartinas,30p ,390g ,TR
+35936, ,Tartinas,30p ,390g ,TR
+35937, ,Tartinas,30p ,390g ,TR
+35955, ,Tortilla,8p ,220g ,DH
+35967, ,Galleta,5p ,65g ,TR
+35968, ,Galleta,5p ,65g ,TR
+35969, ,Bran,9p ,48g ,BIM
+35972, ,Triki,None,600g ,MLA
+35973, ,Suavicremas,None,480g ,MLA
+35974, ,Suavicremas,None,480g ,MLA
+35975, ,Suavicremas,None,480g ,MLA
+35976, ,Barritas,12p ,900g ,MLA
+35977, ,Barritas,12p ,900g ,MLA
+35979, ,Almohada,None,None,BIM
+35987, ,Pallet,None,420g ,GBI
+35989, ,Hotcakes,None,99g ,LON
+35990, ,Hotcakes,None,99g ,LON
+35999, ,Galleton,None,57g ,TR
+36000, ,Galleton,None,57g ,TR
+36001, ,Galleta,None,57g ,TR
+36002, ,Galleta,None,57g ,TR
+36003, ,Galleta,None,57g ,TR
+36004, ,Galleta,None,57g ,TR
+36005, ,Galleta,None,57g ,TR
+36006, ,Galleta,None,57g ,TR
+36008, ,Classicas,6p ,33g ,GBI
+36010, ,Duo,None,76g ,MLA
+36014, ,Karameladas,None,27g ,BAR
+36023, ,Pastilla,None,6g ,MP
+36024, ,Pastilla,None,6g ,MP
+36034, ,Cajilla,6p ,800g ,GBI
+36035, ,Lata,None,200g ,GBI
+36036, ,Lata,None,200g ,GBI
+36038, ,Lata,None,200g ,GBI
+36041, ,Clasicas,None,216g ,GBI
+36042, ,Clasicas,None,216g ,GBI
+36052, ,DuoBarr,None,137g ,MLA
+36057, ,Barritas,6p ,75g ,MLA
+36058, ,Barritas,6p ,75g ,MLA
+36060, ,Bombonete,None,55g ,MLA
+36078, ,Mix,None,1368g ,MLA
+36089, ,Pan,None,567g ,TRI
+36090, ,Ice,None,14g ,RIC
+36091, ,Ice,None,14g ,RIC
+36092, ,Tortillas,10p ,270g ,DH
+36093, ,Div,3p ,45g ,TR
+36096, ,Tuinky,1p ,38g ,MLA
+36098, ,Duo,None,316g ,MLA
+36117, ,Pan,None,73g ,BIM
+36118, ,Sandwich,None,87g ,LON
+36123, ,Duo,None,175g ,LAR
+36128, ,Mini,3p ,75g ,MLA
+36130, ,Div,3p ,45g ,TR
+36131, ,Tri,None,96g ,BIM
+36141, ,Pan,None,None,BIM
+36143, ,Pan,None,None,BIM
+36145, ,Pan,None,None,BIM
+36147, ,Pan,None,None,BIM
+36151, ,Pan,None,None,BIM
+36153, ,Pan,None,None,BIM
+36155, ,Pan,None,None,BIM
+36158, ,Tuinky,1p ,38g ,MLA
+36159, ,Tuinky,1p ,38g ,MLA
+36164, ,Pan,None,567g ,TRI
+36166, ,Pan,None,567g ,TRI
+36169, ,Pack,None,262g ,MLA
+36175, ,Barritas,None,5400g ,MLA
+36184, ,Duo,None,316g ,MLA
+36189, ,Sponch,12p ,540g ,MLA
+36191, ,Mini,40p ,520g ,MLA
+36192, ,Div,3p ,45g ,TR
+36193, ,Totopos,None,280g ,DH
+36194, ,Pan,None,180g ,BIM
+36195, ,Duo,None,95g ,MLA
+36196, ,Duo,None,95g ,MLA
+36198, ,Polvoroncitos,40p ,25g ,TR
+36204, ,Lata,None,200g ,GBI
+36209, ,Lata,None,200g ,GBI
+36212, ,Tortilla,None,800g ,MR
+36223, ,TuinKids,2p ,50g ,MLA
+36224, ,TuinKids,2p ,50g ,MLA
+36227, ,Lat,None,200g ,GBI
+36233, ,Lata,None,200g ,GBI
+36234, ,Lat,None,200g ,GBI
+36240, ,Lata,None,200g ,GBI
+36250, ,Tostada,32p ,384g ,MR
+36255, ,Barri,p ,25g ,BIM
+36258, ,Barri,p ,25g ,BIM
+36259, ,Barri,p ,25g ,BIM
+36261, ,Twinkies,1p ,38g ,MLA
+36262, ,Twinkies,1p ,38g ,MLA
+36269, ,Barra,None,50g ,BIM
+36270, ,Colchones,6p ,130g ,BIM
+36274, ,Twinkies,2p ,76g ,MLA
+36275, ,Twinkies,2p ,76g ,MLA
+36277, ,Exhibidor,None,g ,SAN
+36278, ,Tortilla,22p ,840g ,DH
+36287, ,Tortillas,18p ,630g ,DH
+36288, ,Twin,16p ,g ,ORO
+36289, ,Twin,16p ,g ,ORO
+36290, ,Tortilla,10p ,339g ,DH
+36291, ,Galleta,5p ,65g ,TR
+36292, ,Galleta,5p ,65g ,TR
+36298, ,Suavicremas,None,100g ,MLA
+36301, ,Suavicremas,None,100g ,MLA
+36304, ,Suavicremas,None,100g ,MLA
+36309, ,Galleta,None,57g ,TR
+36310, ,Galleta,None,57g ,TR
+36318, ,Pan,4p ,293g ,BIM
+36319, ,Lors,10p ,98g ,MLA
+36320, ,Plativolos,10p ,92g ,MLA
+36321, ,Polvoron,6p ,113g ,MLA
+36322, ,Principe,10p ,106g ,MLA
+36323, ,Principe,None,110g ,MLA
+36324, ,Sponch,8p ,120g ,MLA
+36325, ,Suavicremas,None,158g ,MLA
+36327, ,Canelitas,None,90g ,MLA
+36328, ,Rocko,10p ,44g ,MLA
+36329, ,Saladas,None,175g ,LAR
+36332, ,Deliciosas,None,180g ,LAR
+36333, ,Principe,8p ,60g ,MLA
+36334, ,Triki,8p ,69g ,MLA
+36335, ,Polvorones,18p ,250g ,MLA
+36336, ,Principe,14p ,152g ,MLA
+36337, ,Triki,20p ,174g ,MLA
+36338, ,Canelitas,33p ,180g ,MLA
+36339, ,Lors,None,167g ,MLA
+36340, ,Plativolos,18p ,144g ,MLA
+36341, ,Tubo,8p ,215g ,MLA
+36342, ,Suavicremas,None,158g ,MLA
+36343, ,Suavicremas,None,158g ,MLA
+36344, ,Tripack,None,75g ,MLA
+36345, ,Tripack,None,75g ,MLA
+36346, ,Tripack,None,75g ,MLA
+36396, ,Sand,None,g ,LON
+36398, ,Sand,None,g ,LON
+36400, ,Sand,None,g ,LON
+36402, ,Duo,None,95g ,TR
+36403, ,Duo,None,95g ,TR
+36408, ,Nuevo,5p ,50g ,MLA
+36410, ,Tortilla,24p ,577g ,TR
+36413, ,Mantecadas,8p ,250g ,BIM
+36430, ,Bollo,6p ,585g ,BIM
+36439, ,Cuernito,None,80g ,LON
+36440, ,Sand,None,87g ,LON
+36441, ,Sand,None,98g ,LON
+36442, ,Sand,None,91g ,LON
+36448, ,Sponch,None,960g ,MLA
+36453, ,Barri,p ,25g ,BIM
+36456, ,Barri,p ,25g ,BIM
+36457, ,Barri,p ,25g ,BIM
+36460, ,PDQ,None,240g ,BIM
+36498, ,Besos,None,g ,GBI
+36501, ,Pan,6p ,440g ,BIM
+36502, ,Sand,None,91g ,LON
+36503, ,Sand,None,98g ,LON
+36524, ,Tortilla,24p ,577g ,TR
+36529, ,Triki,8p ,69g ,MLA
+36530, ,Mantecadas,8p ,250g ,BIM
+36531, ,Donas,8p ,210g ,BIM
+36532, ,Pastisetas,None,75g ,SUA
+36533, ,Duo,None,124g ,BIM
+36534, ,Duo,None,124g ,BIM
+36535, ,Duo,None,124g ,BIM
+36536, ,Napi,2p ,50g ,MLA
+36537, ,Napi,2p ,50g ,MLA
+36538, ,Napi,2p ,50g ,MLA
+36539, ,Pan,None,680g ,BIM
+36544, ,Roles,3p ,180g ,BIM
+36545, ,Roles,3p ,180g ,BIM
+36547, ,Roles,3p ,202g ,BIM
+36550, ,Mantecadas,6p ,188g ,BIM
+36551, ,Mantecadas,6p ,188g ,BIM
+36553, ,Mantecadas,6p ,184g ,BIM
+36554, ,Mantecadas,6p ,184g ,BIM
+36557, ,Pan,None,680g ,BIM
+36561, ,Medias,8p ,340g ,BIM
+36562, ,Bimbollos,8p ,450g ,BIM
+36576, ,Barritas,None,67g ,MLA
+36577, ,Barritas,None,67g ,MLA
+36579, ,Marias,None,170g ,LAR
+36586, ,Galleta,None,30g ,GBI
+36587, ,Deliciosas,None,75g ,LAR
+36588, ,Decanelas,None,83g ,LAR
+36589, ,Magnas,None,200g ,LAR
+36591, ,Canapinas,None,95g ,LAR
+36595, ,Chocochispas,None,80g ,LAR
+36596, ,Animalitos,None,200g ,LAR
+36597, ,Deliciosas,None,180g ,LAR
+36598, ,Animalitos,None,200g ,LAR
+36599, ,Animalitos,None,200g ,LAR
+36600, ,Suavicremas,None,84g ,MLA
+36601, ,Suavicremas,None,84g ,MLA
+36602, ,Suavicremas,None,84g ,MLA
+36610, ,Bolsa,40p ,13g ,MLA
+36612, ,Pan,None,None,BIM
+36614, ,Pan,None,None,BIM
+36618, ,Pan,None,None,BIM
+36620, ,Pan,None,None,BIM
+36622, ,Pan,None,None,BIM
+36627, ,Hot,8p ,g ,BIM
+36629, ,Hot,8p ,g ,BIM
+36639, ,Mantecadas,2p ,95g ,TR
+36640, ,Mini,8p ,360g ,TR
+36641, ,Cuernitos,None,200g ,TR
+36659, ,Tarima,None,g ,ORO
+36671, ,Tortilla,10p ,326g ,DH
+36673, ,Torti,20p ,357g ,TR
+36687, ,Tarima,None,172g ,MLA
+36688, ,Galletero,None,172g ,MLA
+36689, ,Galleta,None,62g ,MLA
+36690, ,Triki,8p ,80g ,MLA
+36691, ,Barritas,None,67g ,MLA
+36692, ,Bolsa,40p ,13g ,MLA
+36699, ,Choco,2p ,80g ,MLA
+36700, ,Gansito,None,50g ,MLA
+36706, ,Servilletero,None,None,BIM
+36709, ,Tortillina,20p ,610g ,DH
+36710, ,Tortillina,20p ,610g ,DH
+36711, ,Madalenas,3p ,93g ,BIM
+36714, ,Pallet,None,360g ,MLA
+36722, ,Salmas,None,140g ,SAN
+36723, ,Salmas,None,140g ,SAN
+36724, ,Salmas,36p ,648g ,SAN
+36725, ,Salmas,48p ,864g ,SAN
+36726, ,Tartinas,8p ,104g ,TR
+36727, ,Galletas,2p ,54g ,TR
+36729, ,Polvoron,None,65g ,TR
+36731, ,Galleta,8p ,100g ,TR
+36732, ,Galleta,None,57g ,TR
+36733, ,Galleton,None,57g ,TR
+36734, ,Galleta,None,57g ,TR
+36735, ,Galleta,None,57g ,TR
+36739, ,Madalenas,3p ,93g ,BIM
+36740, ,Madalena,1p ,31g ,BIM
+36742, ,Super,12p ,g ,WON
+36744, ,Duo,None,110g ,MLA
+36745, ,Canelitas,None,207g ,MLA
+36746, ,Principe,None,190g ,MLA
+36747, ,Triki,None,200g ,MLA
+36748, ,Polvorones,None,287g ,MLA
+36749, ,Plativolos,None,222g ,MLA
+36763, ,Tartinas,8p ,104g ,TR
+36764, ,Tartinas,8p ,104g ,TR
+36773, ,Donas,21p ,551g ,BIM
+36774, ,Pan,None,180g ,BIM
+36791, ,Cajilla,None,1140g ,TR
+36794, ,Hot,None,g ,BIM
+36801, ,Hot,None,g ,BIM
+36806, ,Mantecadas,16p ,500g ,BIM
+36809, ,Tostada,18p ,216g ,MR
+36823, ,Galletas,6p ,66g ,MLA
+36830, ,Bon,104p ,30g ,RIC
+36831, ,Medias,8p ,340g ,BIM
+36843, ,Hot,8p ,g ,BIM
+36844, ,Tortilla,10p ,339g ,DH
+36851, ,Thins,None,340g ,ORO
+36852, ,Thins,None,340g ,ORO
+36854, ,Pan,None,None,BIM
+36855, ,Pan,None,None,BIM
+36872, ,Pan,None,None,BIM
+36873, ,Tostada,30p ,360g ,MR
+36875, ,Barritas,24p ,55g ,MLA
+36876, ,Barritas,24p ,55g ,MLA
+36883, ,Deliciosas,None,180g ,LAR
+36886, ,Polvorones,14p ,75g ,MLA
+36899, ,Pan,None,210g ,BIM
+36907, ,Tostado,None,250g ,BIM
+36910, ,Bigotes,None,60g ,TR
+36911, ,Bigotes,None,60g ,TR
+36912, ,Canelitas,None,60g ,MLA
+36913, ,Apapacho,5p ,70g ,TR
+36918, ,Solecitos,4p ,70g ,TR
+36920, ,Bisquet,3p ,140g ,TR
+36921, ,Bisquet,3p ,140g ,TR
+36924, ,Orejas,4p ,51g ,TR
+36927, ,Combo,None,1360g ,SAN
+36928, ,Combo,None,1414g ,SAN
+36929, ,Combo,None,500g ,SAN
+36930, ,Donas,21p ,551g ,BIM
+36931, ,Donas,21p ,551g ,BIM
+36932, ,Dona,1p ,26g ,BIM
+36933, ,Dona,1p ,26g ,BIM
+36936, ,Wonder,None,567g ,WON
+36940, ,Principe,None,5g ,MLA
+36941, ,Barritas,24p ,1320g ,MLA
+36942, ,Mini,None,110g ,GBI
+36943, ,Mini,None,110g ,GBI
+36944, ,Mini,None,110g ,GBI
+36945, ,Mini,None,110g ,GBI
+36946, ,Canelitas,33p ,180g ,MLA
+36947, ,Principe,14p ,152g ,MLA
+36948, ,Triki,20p ,174g ,MLA
+36949, ,Polvorones,18p ,250g ,MLA
+36951, ,Tostada,18p ,216g ,MR
+36955, ,Lata,None,300g ,GBI
+36960, ,Pachoncitos,2p ,140g ,TR
+36963, ,Lata,None,200g ,GBI
+36964, ,Galletas,6p ,66g ,MLA
+36969, ,Cuadritas,None,186g ,MR
+36974, ,Pinguis,1p ,34g ,MLA
+36975, ,Pinguis,1p ,34g ,MLA
+36978, ,Canelitas,14p ,840g ,MLA
+36979, ,Lata,None,300g ,GBI
+36983, ,Medio,None,300g ,GBI
+36988, ,Canelitas,None,360g ,MLA
+36989, ,Combo,None,640g ,SAN
+36990, ,Combo,None,290g ,SAN
+36991, ,Deliciosas,None,130g ,LAR
+36992, ,Deliciosas,None,130g ,LAR
+36994, ,Rebanada,2p ,55g ,BIM
+36995, ,Rebanada,2p ,55g ,BIM
+36996, ,Rebanada,2p ,55g ,BIM
+36998, ,Canelitas,33p ,180g ,MLA
+36999, ,Principe,14p ,152g ,MLA
+37000, ,Triki,20p ,174g ,MLA
+37001, ,Polvorones,18p ,250g ,MLA
+37002, ,Galleta,None,30g ,GBI
+37005, ,Madalenas,3p ,93g ,BIM
+37006, ,Madalenas,3p ,93g ,BIM
+37007, ,Madalenas,3p ,93g ,BIM
+37011, ,Deliciosas,None,170g ,LAR
+37014, ,Madalenas,2p ,62g ,BIM
+37015, ,Madalenas,2p ,62g ,BIM
+37016, ,Madalenas,2p ,62g ,BIM
+37017, ,Medio,None,200g ,GBI
+37018, ,Mantecadas,16p ,500g ,BIM
+37024, ,Tostada,30p ,g ,MR
+37031, ,Donas,4p ,105g ,BIM
+37032, ,Rebanada,p ,55g ,BIM
+37037, ,Bisquet,None,140g ,TR
+37057, ,Choco,2p ,80g ,MLA
+37058, ,Choco,2p ,80g ,MLA
+37059, ,Choco,2p ,80g ,MLA
+37075, ,Duo,None,124g ,BIM
+37076, ,Duo,None,124g ,BIM
+37086, ,Burritos,None,170g ,LON
+37130, ,Pan,None,610g ,BIM
+37131, ,Pan,None,610g ,BIM
+37133, ,Pan,None,610g ,BIM
+37134, ,Pan,None,610g ,BIM
+37135, ,Pan,None,610g ,BIM
+37137, ,Pan,None,610g ,BIM
+37139, ,Pan,4p ,293g ,BIM
+37149, ,Classicas,4p ,33g ,GBI
+37150, ,Tartinas,6p ,78g ,TR
+37153, ,Orejitas,None,500g ,GBI
+37157, ,12,None,110g ,GBI
+37159, ,Nito,1p ,62g ,BIM
+37173, ,Tartinas,6p ,78g ,TR
+37175, ,Tartinas,6p ,78g ,TR
+37177, ,Canelitas,None,60g ,MLA
+37185, ,Mini,None,13g ,MLA
+37187, ,Orejitas,None,100g ,GBI
+37191, ,Panetone,None,750g ,SUA
+37202, ,Pachoncitos,2p ,140g ,TR
+37210, ,Besos,None,100g ,GBI
+37220, ,Galleta,None,57g ,TR
+37221, ,Galleta,None,57g ,TR
+37222, ,Galleta,None,57g ,TR
+37223, ,Galleta,None,57g ,TR
+37228, ,Principe,None,5g ,MLA
+37232, ,Principe,None,5g ,MLA
+37241, ,Tortilla,18p ,305g ,DH
+37242, ,Tortilla,18p ,305g ,DH
+37264, ,Maxi,3p ,150g ,MLA
+37265, ,Maxi,3p ,150g ,MLA
+37268, ,Mini,15p ,185g ,MLA
+37272, ,Principe,10p ,106g ,MLA
+37273, ,Principe,None,5g ,MLA
+37281, ,Principe,None,5g ,MLA
+37285, ,Lata,None,200g ,GBI
+37286, ,Lata,None,200g ,GBI
+37287, ,Lata,None,200g ,GBI
+37289, ,Lata,None,200g ,GBI
+37290, ,Lata,None,200g ,GBI
+37291, ,Lata,None,200g ,GBI
+37293, ,Media,None,200g ,GBI
+37329, ,Pallet,None,392g ,MLA
+37350, ,Tortilla,10p ,204g ,DH
+37352, ,Tortilla,20p ,427g ,DH
+37355, ,Ganchera,15p ,855g ,TR
+37356, ,Balcon,12p ,684g ,TR
+37359, ,Tortilla,10p ,260g ,DH
+37360, ,Canelitas,None,120g ,MLA
+37361, ,Canelitas,None,120g ,MLA
+37362, ,Canelitas,None,120g ,MLA
+37363, ,Canelitas,None,120g ,MLA
+37373, ,12Tarima,None,110g ,GBI
+37374, ,Tira,None,471g ,GBI
+37379, ,Triki,8p ,69g ,MLA
+37383, ,Mini,None,110g ,GBI
+37388, ,Duo,6p ,620g ,BIM
+37396, ,Donas,4p ,105g ,BIM
+37400, ,Nacho,None,300g ,MR
+37401, ,Nacho,None,300g ,MR
+37402, ,Mantecadas,16p ,500g ,BIM
+37403, ,Mantecadas,16p ,500g ,BIM
+37404, ,Mantecadas,16p ,500g ,BIM
+37405, ,Mantecadas,1p ,33g ,BIM
+37425, ,Deliciosas,None,130g ,LAR
+37426, ,Lata,None,110g ,GBI
+37427, ,Leche,None,236ml ,MLA
+37441, ,Tortilla,8p ,203g ,DH
+37442, ,Classicas,7p ,33g ,GBI
+37468, ,Suavicremas,None,237g ,MLA
+37469, ,Suavicremas,None,237g ,MLA
+37470, ,Tubo,8p ,215g ,MLA
+37471, ,Principe,8p ,360g ,MLA
+37494, ,Dolce,1p ,30g ,MLA
+37495, ,Dolce,1p ,30g ,MLA
+37496, ,Dolce,1p ,30g ,MLA
+37516, ,Pan,None,640g ,BIM
+37519, ,Pan,None,640g ,BIM
+37520, ,Pan,None,680g ,BIM
+37523, ,Pan,None,680g ,BIM
+37569, ,Deliciosas,None,None,LAR
+37570, ,Deliciosas,None,None,LAR
+37573, ,Deliciosas,None,None,LAR
+37574, ,Deliciosas,None,180g ,LAR
+37575, ,Deliciosas,None,180g ,LAR
+37576, ,Deliciosas,None,180g ,LAR
+37577, ,Deliciosas,None,216g ,LAR
+37578, ,Deliciosas,None,216g ,LAR
+37579, ,Deliciosas,None,216g ,LAR
+37580, ,Deliciosas,None,216g ,LAR
+37581, ,Deliciosas,None,216g ,LAR
+37587, ,Salmitas,None,45g ,SAN
+37588, ,Salmitas,5p ,45g ,SAN
+37589, ,Tortilla,10p ,260g ,DH
+37590, ,Tortilla,10p ,326g ,DH
+37593, ,Galleta,1p ,57g ,TR
+37610, ,Atun,None,1880g ,NAI
+37611, ,Atun,None,1880g ,NAI
+37612, ,Atun,None,140g ,NAI
+37613, ,Atun,None,140g ,NAI
+37614, ,Canela,None,63g ,MCM
+37615, ,Pimienta,None,64g ,MCM
+37616, ,Te,None,120g ,MCM
+37617, ,Te,None,150g ,MCM
+37618, ,Salsa,p ,1000g ,EMB
+37619, ,Miel,None,1050g ,CAR
+37620, ,Mermelada,None,980g ,MCM
+37621, ,Pluma,None,500g ,BRL
+37622, ,Spaghetti,None,500g ,BRL
+37624, ,Pachoncitos,2p ,140g ,TR
+37626, ,Pachoncitos,2p ,140g ,TR
+37627, ,Salma,None,90g ,SAN
+37639, ,Tortillinas,15p ,390g ,TR
+37641, ,Tartaleta,None,71g ,GBI
+37644, ,LataCorazonChococatBesoNuez200g,p ,200g ,GBI
+37645, ,Lata,p ,200g ,GBI
+37667, ,Tortilla,8p ,220g ,DH
+37688, ,Bollos,12p ,976g ,SL
+37689, ,Bollos,8p ,425g ,SL
+37690, ,Hot,16p ,570g ,SL
+37702, ,Choco,2p ,80g ,MLA
+37703, ,Choco,2p ,80g ,MLA
+37745, ,Pan,None,640g ,BIM
+40217, ,Mantecada,3p ,157g ,TR
+40234, ,StarGum,None,8g ,SKD
+40290, ,Totopo,None,280g ,MR
+40292, ,Roles,2p ,120g ,BIM
+40297, ,Pan,None,680g ,BIM
+40309, ,Lata,None,454g ,GBI
+40310, ,Lata,None,454g ,GBI
+40319, ,Lata,None,400g ,GBI
+40351, ,Totopo,None,200g ,MR
+40430, ,Bollos,None,1350g ,SL
+40445, ,Principe,8p ,88g ,MLA
+40446, ,Principe,8p ,88g ,MLA
+40447, ,Tortillinas,12p ,310g ,TR
+40448, ,Tortillinas,12p ,310g ,TR
+40449, ,Tortillinas,22p ,570g ,TR
+40450, ,Tortillinas,22p ,570g ,TR
+40507, ,Mantecadas,1p ,33g ,BIM
+40560, ,Galleta,6p ,312g ,BIM
+40569, ,Manzana,None,72g ,BIM
+40606, ,Tortillinas,12p ,310g ,TR
+40639, ,Ami,None,500ml ,JMX
+40640, ,Ami,None,500ml ,JMX
+40641, ,Ami,None,500ml ,JMX
+40665, ,Duo,None,408g ,BIM
+40673, ,Choco,2p ,67g ,MLA
+40674, ,Choco,2p ,67g ,MLA
+40680, ,Leche,None,200ml ,MLA
+40747, ,Tostadita,18p ,190g ,MR
+40751, ,Mantecadas,None,g ,BIM
+40802, ,Nano,None,100g ,GBI
+40803, ,Nano,None,100g ,GBI
+40804, ,Nano,None,100g ,GBI
+40805, ,Nano,None,100g ,GBI
+40815, ,Pan,None,360g ,BIM
+40820, ,Mantecadas,1p ,33g ,BIM
+40839, ,Mini,None,30g ,MLA
+40859, ,Choco,15p ,None,MLA
+40886, ,Marias,None,170g ,LAR
+40889, ,Orejitas,100p ,5g ,TR
+40917, ,Bollos,6p ,340g ,WON
+40920, ,Super,6p ,445g ,WON
+40929, ,Triki,8p ,69g ,MLA
+40930, ,Triki,8p ,69g ,MLA
+40931, ,Triki,8p ,69g ,MLA
+40942, ,Sponch,8p ,120g ,MLA
+40944, ,Plativolos,8p ,74g ,MLA
+40945, ,Plativolos,8p ,74g ,MLA
+40963, ,Bollos,6p ,340g ,WON
+40964, ,Bollos,6p ,340g ,WON
+40974, ,Super,6p ,445g ,WON
+40985, ,Duo,None,124g ,BIM
+40987, ,Besos,None,71g ,GBI
+40990, ,Polvoroncitos,40p ,25g ,TR
+41725, ,DonitasEspolvoreadas,12p ,210g ,BIM
+41758, ,Triki,None,225g ,MLA
+41829, ,Tortillinas,25p ,325g ,TR
+41830, ,Tortillinas,10p ,255g ,TR
+41843, ,Leche,None,236ml ,BIM
+41921, ,Bimbollos,8p ,640g ,BIM
+41935, ,Tortillinas,10p ,255g ,TR
+41938, ,Mantecadas,None,123g ,BIM
+41986, ,Suavicremas,None,60g ,MLA
+41987, ,Suavicremas,None,60g ,MLA
+41988, ,Suavicremas,None,60g ,MLA
+42014, ,Pan,None,240g ,BIM
+42034, ,Medias,2p ,340g ,BIM
+42036, ,Magno,None,65g ,LAR
+42042, ,Duo,None,150g ,MLA
+42049, ,Barritas,6p ,67g ,MLA
+42083, ,Sandwich,None,187g ,LON
+42084, ,Sandwich,None,187g ,LON
+42086, ,Sandwich,None,179g ,LON
+42087, ,Sandwich,None,179g ,LON
+42089, ,Sandwich,None,175g ,LON
+42090, ,Sandwich,None,175g ,LON
+42110, ,Tortillinas,10p ,255g ,TR
+42117, ,Valentones,None,20g ,BAR
+42122, ,Pan,None,680g ,ORO
+42128, ,Chips,None,46g ,BAR
+42192, ,Bombonete,None,55g ,MLA
+42215, ,Bimbollos,12p ,1170g ,BIM
+42225, ,Chips,None,46g ,BAR
+42227, ,Chips,None,46g ,BAR
+42237, ,Tortillina,20p ,610g ,DH
+42323, ,Marias,None,170g ,LAR
+42351, ,Barra,6p ,204g ,BIM
+42386, ,Suavicremas,None,257g ,MLA
+42388, ,Suavicremas,None,257g ,MLA
+42390, ,Suavicremas,None,257g ,MLA
+42434, ,Barra,None,34g ,BIM
+42436, ,Barra,6p ,204g ,BIM
+42437, ,Barra,6p ,204g ,BIM
+42453, ,Takis,None,62g ,BAR
+42470, ,Tortillina,30p ,390g ,TR
+42538, ,Barra,12p ,408g ,BIM
+42590, ,Canelitas,None,30g ,MLA
+42616, ,Pan,None,454g ,BIM
+42638, ,Mini,None,13g ,MLA
+42672, ,Takis,None,59g ,BAR
+42783, ,Pastisetas,10p ,70g ,SUA
+42791, ,Bimbollos,12p ,675g ,BIM
+42792, ,Medias,16p ,680g ,BIM
+42869, ,Galletas,2p ,54g ,TR
+43000, ,Div,4p ,45g ,TR
+43003, ,Decanelas,None,100g ,LAR
+43005, ,Bimbollos,6p ,480g ,BIM
+43006, ,Pan,None,370g ,BIM
+43014, ,Tostado,None,250g ,BIM
+43018, ,Palitrigos,None,100g ,BIM
+43023, ,Barra,None,32g ,BIM
+43027, ,Bran,6p ,240g ,BIM
+43028, ,Bran,6p ,240g ,BIM
+43033, ,Triki,8p ,69g ,MLA
+43034, ,Pan,None,567g ,WON
+43037, ,Mantecadas,2p ,None,TR
+43038, ,Conchas,2p ,120g ,TR
+43039, ,Cuernitos,None,100g ,TR
+43040, ,Doraditas,None,110g ,TR
+43047, ,Chocochispas,None,220g ,LAR
+43052, ,Pan,None,567g ,SUN
+43058, ,Sponch,8p ,120g ,MLA
+43059, ,Empanizador,None,175g ,BIM
+43060, ,Bimbolunch,6p ,354g ,BIM
+43061, ,Panera,14p ,65g ,TR
+43062, ,Barra,6p ,192g ,BIM
+43064, ,Submarinos,3p ,105g ,MLA
+43065, ,Rollo,2p ,75g ,MLA
+43066, ,Pay,1p ,85g ,MLA
+43067, ,Pay,1p ,70g ,MLA
+43068, ,Rocko,10p ,44g ,MLA
+43069, ,Pinguinos,2p ,80g ,MLA
+43070, ,Canelitas,6p ,60g ,MLA
+43071, ,Canelitas,None,250g ,MLA
+43072, ,Triki,27p ,225g ,MLA
+43073, ,Plativolos,None,193g ,MLA
+43074, ,Triki,6p ,50g ,MLA
+43075, ,Polvorones,4p ,75g ,MLA
+43076, ,Polvoron,None,280g ,MLA
+43077, ,Principe,None,205g ,MLA
+43078, ,Suavicremas,None,60g ,MLA
+43079, ,Suavicremas,None,60g ,MLA
+43081, ,Gansito,5p ,250g ,MLA
+43082, ,Pinguinos,6p ,240g ,MLA
+43083, ,Choco,7p ,5g ,MLA
+43084, ,Submarinos,3p ,105g ,MLA
+43089, ,Integral,None,1360g ,ORO
+43097, ,Totopos,None,350g ,MR
+43100, ,Bran,12p ,480g ,BIM
+43110, ,Pan,None,680g ,ORO
+43111, ,100pct,None,680g ,ORO
+43118, ,Mantecadas,None,123g ,BIM
+43119, ,Barritas,6p ,67g ,MLA
+43120, ,Bigotes,None,60g ,TR
+43121, ,Medias,None,290g ,BIM
+43124, ,Suavicremas,None,60g ,MLA
+43128, ,Bimbollos,6p ,480g ,BIM
+43129, ,Pan,None,540g ,BIM
+43130, ,Pan,None,567g ,WON
+43131, ,Wonder,None,475g ,WON
+43133, ,Tostado,None,180g ,WON
+43134, ,Super,8p ,540g ,WON
+43135, ,Bollos,8p ,450g ,WON
+43136, ,Hot,8p ,290g ,WON
+43137, ,Molido,None,180g ,WON
+43139, ,Tostado,None,200g ,WON
+43140, ,Deliciosas,None,115g ,LAR
+43147, ,Dalmata,1p ,55g ,MLA
+43156, ,Mantecadas,8p ,250g ,BIM
+43157, ,Bollos,6p ,560g ,BIM
+43158, ,Figatza,None,345g ,BIM
+43159, ,Tostada,15p ,175g ,MR
+43160, ,7,None,680g ,ORO
+43161, ,Pan,None,680g ,ORO
+43164, ,Gansito,10p ,500g ,MLA
+43169, ,Roles,6p ,365g ,BIM
+43173, ,Pan,None,680g ,ORO
+43174, ,Panque,None,255g ,BIM
+43175, ,Pan,None,360g ,BIM
+43176, ,Super,None,740g ,BIM
+43178, ,Tortilla,10p ,540g ,DH
+43179, ,Tortillinas,10p ,255g ,TR
+43180, ,Tortillinas,10p ,510g ,TR
+43181, ,Tortillinas,20p ,510g ,TR
+43183, ,Tortilla,22p ,840g ,DH
+43184, ,Pan,None,1360g ,BIM
+43185, ,Pan,None,480g ,BIM
+43186, ,Pan,None,680g ,BIM
+43187, ,Pan,None,675g ,BIM
+43188, ,Medias,8p ,340g ,BIM
+43189, ,Medias,16p ,680g ,BIM
+43190, ,Bimbollos,8p ,450g ,BIM
+43192, ,Bimbollos,12p ,675g ,BIM
+43193, ,Bimbollos,6p ,480g ,BIM
+43194, ,Tostado,None,210g ,BIM
+43195, ,Molido,None,g ,BIM
+43196, ,Roles,2p ,120g ,BIM
+43197, ,Roles,2p ,135g ,BIM
+43198, ,Colchones,6p ,130g ,BIM
+43199, ,Panque,None,255g ,BIM
+43200, ,Panque,None,255g ,BIM
+43201, ,Panquecito,2p ,140g ,BIM
+43202, ,Mantecadas,4p ,125g ,BIM
+43203, ,Donitas,6p ,105g ,BIM
+43204, ,Donas,4p ,105g ,BIM
+43206, ,Nito,1p ,62g ,BIM
+43207, ,Rebanada,2p ,55g ,BIM
+43208, ,Lors,20p ,236g ,MLA
+43209, ,Bimbunuelos,4p ,66g ,BIM
+43210, ,Conchitas,2p ,65g ,BIM
+43212, ,Bimbollos,18p ,1440g ,BIM
+43215, ,Pastisetas,None,75g ,SUA
+43218, ,Galletas,2p ,54g ,TR
+43219, ,Bran,None,40g ,BIM
+43220, ,Roles,6p ,410g ,BIM
+43222, ,Galleta,None,g ,LAR
+43223, ,Pan,None,460g ,BIM
+43225, ,Pan,None,750g ,BIM
+43227, ,Pan,None,500g ,BIM
+43229, ,Hot,8p ,290g ,SUN
+43230, ,Principe,6p ,64g ,MLA
+43231, ,Pan,None,640g ,BIM
+43236, ,Bollo,6p ,480g ,BRE
+43237, ,Lors,8p ,89g ,MLA
+43239, ,Donitas,30p ,525g ,BIM
+43241, ,Panquecitos,10p ,700g ,BIM
+43242, ,Principe,8p ,85g ,MLA
+43243, ,Plativolos,8p ,74g ,MLA
+43244, ,Pan,None,1500g ,BIM
+43246, ,Pan,None,540g ,BIM
+43248, ,Medias,None,700g ,BIM
+43249, ,Principe,8p ,88g ,MLA
+43250, ,Orejas,None,70g ,TR
+43251, ,Conchas,2p ,120g ,BIM
+43252, ,Barritas,None,67g ,MLA
+43253, ,Barritas,None,67g ,MLA
+43254, ,Canapinas,None,95g ,LAR
+43255, ,Pastisetas,20p ,150g ,SUA
+43256, ,Pastiseta,40p ,300g ,SUA
+43257, ,Animalitos,None,g ,LAR
+43258, ,Deliciosas,None,300g ,LAR
+43260, ,Saladas,None,140g ,LAR
+43261, ,Animalitos,None,200g ,LAR
+43263, ,Choco,2p ,80g ,MLA
+43274, ,Napolitano,1p ,70g ,MLA
+43278, ,Pan,None,240g ,BIM
+43279, ,Bran,None,40g ,BIM
+43285, ,Gansito,1p ,50g ,MLA
+43288, ,Suavicremas,None,205g ,MLA
+43290, ,Suavicremas,None,205g ,MLA
+43291, ,Sponch,None,120g ,MLA
+43305, ,Barra,None,34g ,BIM
+43306, ,Wonder,None,1360g ,WON
+43307, ,Gansito,1p ,50g ,MLA
+43314, ,Mini,None,13g ,MLA
+43316, ,Submarinos,3p ,105g ,MLA
+43317, ,Barritas,None,67g ,MLA
+43319, ,Triki,None,69g ,MLA
+43322, ,Duo,None,150g ,MLA
+43335, ,Super,8p ,435g ,WON
+43338, ,Pan,None,680g ,BIM
+43339, ,Wonder,None,680g ,WON
+43341, ,Pan,None,454g ,BIM
+43342, ,Nito,4p ,248g ,BIM
+43343, ,DonitasEspolvoreadas,12p ,210g ,BIM
+43344, ,Donas,8p ,210g ,BIM
+43345, ,Pan,None,680g ,ORO
+43346, ,Pan,None,1060g ,BIM
+43347, ,Pan,None,1360g ,BIM
+43348, ,Tortillinas,50p ,g ,TR
+43349, ,Tostado,None,420g ,BIM
+43350, ,Bollos,12p ,960g ,BIM
+43351, ,Pan,None,475g ,WON
+43353, ,Pan,None,650g ,BIM
+43354, ,Donas,20p ,525g ,BIM
+43356, ,Rosca,None,g ,SUA
+43359, ,Wonder,None,680g ,WON
+43360, ,Pan,None,1080g ,BIM
+43361, ,Super,12p ,650g ,WON
+43364, ,12Granos,None,1360g ,ORO
+43367, ,Butter,None,680g ,ORO
+43373, ,Pan,None,1080g ,BIM
+43377, ,Barra,6p ,204g ,BIM
+43380, ,ButterMilk,None,680g ,ORO
+43381, ,Super,None,680g ,WON
+43382, ,Bollos,6p ,480g ,BIM
+43383, ,Bimbollos,6p ,480g ,BIM
+43388, ,Pan,None,680g ,WON
+43389, ,Tostado,None,180g ,WON
+43390, ,Canapinas,None,115g ,LAR
+43394, ,Pan,None,908g ,BIM
+43398, ,Nito,None,62g ,BIM
+44088, ,Semita,2p ,120g ,TR
+44102, ,Polvoroncitos,40p ,25g ,TR
+44179, ,Super,None,740g ,BIM
+44180, ,Barritas,20p ,55g ,MLA
+44285, ,Bimbollos,8p ,780g ,BIM
+44292, ,Pan,None,680g ,WON
+44370, ,Doraditas,None,110g ,TR
+44371, ,Mantecadas,2p ,105g ,TR
+44372, ,Mantecadas,2p ,105g ,TR
+44445, ,Multigrano,20p ,760g ,BIM
+44495, ,Animalitos,None,200g ,LAR
+44552, ,Wonderbutter,None,680g ,WON
+44576, ,Mantecadas,6p ,188g ,BIM
+44597, ,Marias,None,170g ,LAR
+44829, ,Totopos,None,280g ,DH
+44833, ,Lors,None,g ,MLA
+44859, ,Panera,14p ,65g ,TR
+44948, ,Magnas,None,200g ,LAR
+44950, ,Mantecadas,6p ,188g ,BIM
+44951, ,Donas,6p ,None,BIM
+44987, ,Marias,None,170g ,LAR
+44989, ,Barritas,20p ,55g ,MLA
+44990, ,Doraditas,4p ,None,TR
+45007, ,Surtido,None,355g ,MLA
+45111, ,Mantecada,3p ,157g ,TR
+45112, ,Conchas,3p ,180g ,TR
+45141, ,Totopo,None,280g ,MR
+45143, ,Polvoroncitos,40p ,25g ,TR
+45182, ,Super,12p ,g ,WON
+45183, ,Super,12p ,g ,WON
+45223, ,Doraditas,15p ,548g ,TR
+45231, ,Plus,None,22g ,BIM
+45293, ,Nectar,None,335ml ,JMX
+45294, ,Nectar,None,335ml ,JMX
+45295, ,Nectar,None,335ml ,JMX
+45296, ,Nectar,None,335ml ,JMX
+45299, ,Totopos,None,g ,DH
+45305, ,Barritas,12p ,5g ,MLA
+45306, ,Barritas,12p ,5g ,MLA
+45308, ,Canelitas,12p ,30g ,MLA
+45313, ,Triki,12p ,5g ,MLA
+45320, ,Principe,9p ,5g ,MLA
+45321, ,Polvorones,12p ,5g ,MLA
+45407, ,Medias,8p ,340g ,BIM
+45419, ,Unico,None,250ml ,JMX
+45446, ,Golden,None,43g ,BAR
+45447, ,Hot,25p ,50g ,BAR
+45448, ,Brioche,None,50g ,PUL
+45449, ,Kiyakis,None,50g ,BAR
+45480, ,Surtido,None,227g ,LAR
+45496, ,Pastisetas,10p ,70g ,SUA
+45523, ,Mantecadas,8p ,246g ,BIM
+45527, ,Mantecadas,8p ,246g ,BIM
+45528, ,Mantecadas,8p ,246g ,BIM
+45565, ,Pan,None,680g ,ORO
+45567, ,Pan,None,680g ,ORO
+45570, ,Pan,None,680g ,ORO
+45795, ,Sandwich,None,87g ,LON
+45969, ,Mini,None,45g ,MLA
+46062, ,Bollos,None,520g ,SL
+46064, ,Div,4p ,45g ,TR
+46065, ,Pan,None,540g ,BIM
+46067, ,Super,None,680g ,WON
+46068, ,Wonder,None,1360g ,WON
+46070, ,Wonder,None,680g ,WON
+46072, ,Super,8p ,540g ,WON
+46074, ,Hot,8p ,290g ,WON
+46076, ,Super,8p ,435g ,WON
+46083, ,Nito,4p ,248g ,BIM
+46084, ,Mantecadas,8p ,250g ,BIM
+46085, ,Donitas,6p ,105g ,BIM
+46086, ,Donas,8p ,210g ,BIM
+46087, ,Figatza,None,345g ,BIM
+46088, ,Tostada,15p ,175g ,MR
+46090, ,Tostada,30p ,g ,MR
+46092, ,Roles,6p ,365g ,BIM
+46095, ,Panque,None,255g ,BIM
+46096, ,Pan,None,360g ,BIM
+46097, ,Pan,None,1360g ,BIM
+46098, ,Super,None,740g ,BIM
+46099, ,Pan,None,680g ,BIM
+46100, ,Tortillinas,10p ,255g ,TR
+46101, ,Tortillinas,10p ,510g ,TR
+46102, ,Tortillinas,20p ,510g ,TR
+46103, ,Tortillinas,10p ,1530g ,TR
+46104, ,Tortilla,22p ,840g ,DH
+46106, ,Pan,None,1360g ,BIM
+46107, ,Pan,None,480g ,BIM
+46108, ,Pan,None,680g ,BIM
+46109, ,Pan,None,675g ,BIM
+46110, ,Tostada,20p ,180g ,DH
+46111, ,Medias,8p ,340g ,BIM
+46112, ,Medias,16p ,680g ,BIM
+46113, ,Tortillinas,50p ,g ,TR
+46114, ,Bimbollos,8p ,450g ,BIM
+46115, ,Bimbollos,12p ,675g ,BIM
+46116, ,Bimbollos,6p ,480g ,BIM
+46117, ,Tostado,None,210g ,BIM
+46118, ,Pan,None,240g ,BIM
+46119, ,Molido,None,g ,BIM
+46120, ,Tostado,None,420g ,BIM
+46122, ,Roles,2p ,135g ,BIM
+46124, ,Panque,None,255g ,BIM
+46125, ,Panque,None,255g ,BIM
+46126, ,Tostado,None,250g ,BIM
+46127, ,Panquecito,2p ,140g ,BIM
+46128, ,Mantecadas,4p ,125g ,BIM
+46130, ,Donas,4p ,105g ,BIM
+46131, ,Nito,None,62g ,BIM
+46132, ,Nito,1p ,62g ,BIM
+46133, ,Rebanada,2p ,55g ,BIM
+46136, ,Bimbollos,18p ,1440g ,BIM
+46137, ,Bran,None,40g ,BIM
+46138, ,Bran,None,40g ,BIM
+46139, ,Roles,6p ,410g ,BIM
+46143, ,Pan,None,460g ,BIM
+46148, ,Principe,6p ,64g ,MLA
+46149, ,Pan,None,640g ,BIM
+46162, ,Principe,8p ,85g ,MLA
+46166, ,Pan,None,540g ,BIM
+46169, ,Conchas,2p ,120g ,BIM
+46170, ,Barritas,None,67g ,MLA
+46171, ,Barritas,None,67g ,MLA
+46172, ,Pastisetas,20p ,150g ,SUA
+46173, ,Pastiseta,40p ,300g ,SUA
+46174, ,Pastisetas,None,75g ,SUA
+46178, ,Animalitos,None,200g ,LAR
+46183, ,Pan,None,370g ,BIM
+46187, ,Palitrigos,None,100g ,BIM
+46189, ,Sponch,8p ,120g ,MLA
+46190, ,Barra,None,32g ,BIM
+46194, ,Bran,6p ,240g ,BIM
+46195, ,Bran,6p ,240g ,BIM
+46197, ,Triki,8p ,69g ,MLA
+46200, ,Div,4p ,45g ,TR
+46203, ,Mantecadas,2p ,None,TR
+46204, ,Conchas,2p ,120g ,TR
+46205, ,Cuernitos,None,100g ,TR
+46206, ,Doraditas,None,110g ,TR
+46209, ,Wonder,None,680g ,WON
+46214, ,Bollos,6p ,489g ,SL
+46215, ,Bollos,6p ,345g ,SL
+46216, ,Medias,6p ,470g ,SL
+46223, ,Pan,None,1080g ,BIM
+46224, ,Super,12p ,650g ,WON
+46225, ,Empanizador,None,175g ,BIM
+46226, ,Bimbolunch,6p ,354g ,BIM
+46227, ,Panera,14p ,65g ,TR
+46228, ,Gansito,1p ,50g ,MLA
+46229, ,Triki,None,69g ,MLA
+46230, ,Barra,6p ,192g ,BIM
+46231, ,Submarinos,3p ,105g ,MLA
+46232, ,Submarinos,3p ,105g ,MLA
+46233, ,Choco,2p ,80g ,MLA
+46234, ,Rollo,2p ,None,MLA
+46237, ,Napolitano,1p ,70g ,MLA
+46238, ,Rocko,10p ,44g ,MLA
+46239, ,Pinguinos,2p ,80g ,MLA
+46240, ,Choco,2p ,80g ,MLA
+46241, ,Canelitas,6p ,60g ,MLA
+46246, ,Triki,6p ,50g ,MLA
+46250, ,Polvorones,4p ,75g ,MLA
+46253, ,Gansito,5p ,250g ,MLA
+46254, ,Pinguinos,6p ,240g ,MLA
+46255, ,Choco,7p ,5g ,MLA
+46256, ,Submarinos,3p ,105g ,MLA
+46263, ,Totopos,None,280g ,DH
+46275, ,Medias,None,290g ,BIM
+46284, ,Mantecadas,None,123g ,BIM
+46288, ,Pan,None,210g ,BIM
+46290, ,Pan,None,1080g ,BIM
+46293, ,Bimbunuelos,4p ,66g ,BIM
+46298, ,Barra,None,34g ,BIM
+46299, ,Barra,6p ,204g ,BIM
+46301, ,Pan,None,454g ,BIM
+46304, ,Galletas,2p ,54g ,TR
+46313, ,Polvoron,None,65g ,TR
+46440, ,Sandwich,None,87g ,LON
+46447, ,Fresca,None,355ml ,CC
+46706, ,Sprite,None,355ml ,CC
+46711, ,Coca,None,ml ,CC
+46716, ,Bombonete,None,55g ,MLA
+46772, ,Pan,None,210g ,BIM
+46876, ,Pan,None,210g ,BIM
+46962, ,Bran,6p ,198g ,BIM
+47066, ,Pan,None,680g ,ORO
+47068, ,Pan,None,680g ,ORO
+47075, ,Bombonete,None,55g ,MLA
+47080, ,Mini,None,13g ,MLA
+47123, ,Barrita,None,g ,DH
+47124, ,Semitas,2p ,120g ,TR
+47125, ,Panque,None,210g ,TR
+47126, ,Sandwichon,None,115g ,LON
+47332, ,Bimbollos,8p ,780g ,BIM
+47336, ,Medias,8p ,340g ,BIM
+47611, ,Bimbollos,8p ,450g ,BIM
+47612, ,Bimbollos,6p ,480g ,BIM
+47625, ,Tostada,30p ,None,MR
+47661, ,Tortillinas,20p ,550g ,TR
+47662, ,Tortillinas,20p ,550g ,TR
+47676, ,Pinguinos,12p ,40g ,MLA
+47683, ,Pinguinos,12p ,40g ,MLA
+47840, ,Tortilla,10p ,260g ,DH
+47882, ,Star,None,8g ,SKD
+47886, ,Pinguinos,3p ,120g ,MLA
+47887, ,Pinguinos,3p ,120g ,MLA
+47910, ,BranFrut,18p ,None,BIM
+47940, ,Leche,27p ,236ml ,BIM
+47942, ,Bollos,12p ,675g ,SL
+47943, ,Bollos,12p ,g ,BIM
+47944, ,Medias,16p ,1775g ,SL
+47948, ,Medias,12p ,510g ,BIM
+47949, ,Gansito,None,52g ,MLA
+47950, ,Pinguinos,3p ,120g ,MLA
+47955, ,Aparas,None,80g ,AM
+47957, ,Tortilla,18p ,750g ,DH
+47958, ,Tortilla,22p ,840g ,DH
+47980, ,Bollos,12p ,425g ,BIM
+48000, ,Surtido,None,750g ,GBI
+48001, ,Surtido,None,770g ,GBI
+48002, ,Surtido,p ,375g ,GBI
+48003, ,Surtido,None,200g ,GBI
+48019, ,Orejitas,None,500g ,GBI
+48021, ,Lata,None,400g ,GBI
+48022, ,Classicas,None,400g ,GBI
+48023, ,Classicas,None,400g ,GBI
+48029, ,Besos,None,71g ,GBI
+48033, ,Galleta,None,None,GBI
+48034, ,Granel,None,1500g ,GBI
+48039, ,Lata,6p ,400g ,GBI
+48040, ,Surtido,None,375g ,GBI
+48042, ,Multipack,None,71g ,GBI
+48043, ,Costalito,None,1200g ,GBI
+48044, ,Lata,12p ,150g ,GBI
+48059, ,Paletina,None,None,NEC
+48076, ,Totopo,None,180g ,MR
+48077, ,Totopo,None,280g ,MR
+48078, ,Totopo,None,500g ,MR
+48091, ,Tortilla,None,550g ,TR
+48106, ,Minibigotes,None,65g ,TR
+48117, ,Tuinky,3p ,114g ,WON
+48118, ,Tuinky,3p ,114g ,WON
+48119, ,Tuinky,3p ,114g ,WON
+48120, ,Pan,None,475g ,WON
+48121, ,Tortillas,10p ,260g ,WON
+48125, ,Medias,32p ,1160g ,BIM
+48126, ,Bimbollos,24p ,1350g ,BIM
+48127, ,Biscotel,None,410g ,SUA
+48132, ,Mini,5p ,65g ,TR
+48134, ,Medias,8p ,340g ,BIM
+48135, ,Bimbollos,8p ,450g ,BIM
+48136, ,Bimbollos,6p ,480g ,BIM
+48137, ,Medias,16p ,680g ,BIM
+48138, ,Bimbollos,12p ,675g ,BIM
+48216, ,Tostada,30p ,g ,MR
+48217, ,Totopos,None,200g ,MR
+48218, ,Medias,None,500g ,BIM
+48227, ,12Granos,None,1360g ,ORO
+48228, ,7,None,680g ,ORO
+48232, ,Bran,6p ,198g ,BIM
+48246, ,Pan,None,680g ,ORO
+48248, ,Pan,None,680g ,ORO
+48250, ,Pan,None,680g ,ORO
+48266, ,SuperBollos,8p ,615g ,WON
+48274, ,Totopo,None,g ,DH
+48288, ,Classicas,2p ,800g ,GBI
+48297, ,Tartaletas,None,2280g ,GBI
+48298, ,Granel,None,2000g ,GBI
+48301, ,Granel,None,3000g ,GBI
+48303, ,Chocochips,None,22g ,GBI
+48311, ,Lata,None,454g ,MP
+48312, ,Surtido,None,375g ,MP
+48314, ,Tartaletas,None,375g ,MP
+48345, ,Pan,None,680g ,ORO
+48346, ,Healthy,None,680g ,ORO
+48373, ,Totopo,None,280g ,MR
+48374, ,Totopo,None,500g ,MR
+48417, ,Bran,None,48g ,BIM
+48419, ,Bran,None,48g ,BIM
+48421, ,Bran,None,48g ,BIM
+48440, ,Principe,9p ,5g ,MLA
+48551, ,Tortilla,20p ,558g ,DH
+48557, ,Bimbollos,12p ,1170g ,BIM
+48567, ,Tortillina,12p ,294g ,TR
+48577, ,Bran,None,48g ,BIM
+48578, ,Bran,None,48g ,BIM
+48579, ,Bran,None,48g ,BIM
+48582, ,Tostada,15p ,175g ,MR
+48597, ,Mantecadas,6p ,184g ,BIM
+48598, ,Mantecadas,6p ,184g ,BIM
+48667, ,Bombonete,None,55g ,MLA
+48689, ,Tortillina,30p ,390g ,TR
+48694, ,Empanizador,None,185g ,BIM
+48695, ,Empanizador,None,185g ,BIM
+48709, ,Pan,None,560g ,SUN
+48742, ,Totopos,None,280g ,DH
+48763, ,Chocochips,None,22g ,GBI
+48804, ,Bran,None,48g ,BIM
+48805, ,Bran,None,48g ,BIM
+48806, ,Bran,None,48g ,BIM
+48861, ,SuperBollos,8p ,615g ,WON
+48874, ,Totopos,None,280g ,DH
+48876, ,Totopo,None,280g ,MR
+48891, ,Duo,None,100g ,MLA
+48893, ,Duo,None,100g ,MLA
+48912, ,Tortillas,20p ,520g ,WON
+48925, ,Multiempaque,None,None,TR
+48927, ,Duo,None,100g ,MLA
+48934, ,Empanizador,None,350g ,BIM
+48949, ,Oatnut,None,680g ,ORO
+48955, ,Surtido,None,227g ,LAR
+48960, ,Tostada,20p ,240g ,MR
+48961, ,Tostada,30p ,None,MR
+48965, ,Barra,6p ,192g ,BIM
+48967, ,Gansito,None,52g ,MLA
+48985, ,Chocochips,None,22g ,GBI
+48996, ,Tortillinas,22p ,570g ,TR
+49027, ,Tortillinas,12p ,310g ,TR
+49028, ,Tortillinas,12p ,310g ,TR
+49183, ,Sandwich,None,87g ,LON
+49185, ,Totopo,None,500g ,MR
+49255, ,Qubo,None,40g ,MTB
+49442, ,Pan,None,454g ,SUN
+49443, ,Pan,None,454g ,SUN
+49480, ,Bran,8p ,None,BIM
+49489, ,Tortillinas,10p ,275g ,TR
+49492, ,Tortillinas,20p ,550g ,TR
+49495, ,Tortillinas,22p ,570g ,TR
+49497, ,Gansito,None,52g ,MLA
+49498, ,Gansito,None,52g ,MLA
+49519, ,Tortillina,20p ,610g ,DH
+49552, ,Orejitas,None,5g ,GBI
+49614, ,Raztachoc,6p ,40g ,BIM
+49620, ,Gansito,5p ,260g ,MLA
+49643, ,Rocko,None,44g ,MLA
+49653, ,Rocko,None,44g ,MLA
+49724, ,Star,None,8g ,SKD
+49734, ,Agua,None,355ml ,CC
+49735, ,Agua,None,600ml ,CC
+49736, ,Agua,None,600ml ,CC
+49737, ,Powerade,None,600ml ,CC
+49738, ,Powerade,None,600ml ,CC
+49739, ,Powerade,None,600ml ,CC
+49740, ,Powerade,None,600ml ,CC
+49754, ,Totopos,None,250g ,DH
+49765, ,Fanta,None,355ml ,CC
+49766, ,Sprite,None,355ml ,CC
+49769, ,Sidral,None,355ml ,CC
+49773, ,Bombonete,3p ,55g ,MLA
+49779, ,Tortillinas,22p ,570g ,TR
+49781, ,Tortillinas,12p ,310g ,TR
+49782, ,Tortillinas,12p ,310g ,TR
+49810, ,Totopo,None,500g ,MR
+49835, ,Bimkingo,None,135g ,LON
+49860, ,Gansito,5p ,250g ,MLA
+49892, ,Wonder,None,475g ,WON
+49920, ,Conchas,3p ,180g ,TR
+49928, ,Dona,1p ,26g ,BIM
+49944, ,Pan,None,567g ,BIM
+49972, ,Pan,None,567g ,BIM
+49973, ,Pan,None,567g ,BIM
+49986, ,Tostado,None,180g ,WON
+49988, ,Tostado,None,180g ,WON
+49989, ,Tostado,None,180g ,WON
+49990, ,Tostado,None,180g ,WON
+49992, ,Tostado,None,180g ,WON
+49993, ,Tostado,None,180g ,WON
+49994, ,Tostado,None,200g ,WON
+49996, ,Tostado,None,200g ,WON
+49997, ,Tostado,None,200g ,WON
