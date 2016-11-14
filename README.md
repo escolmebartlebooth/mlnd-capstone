@@ -17,7 +17,7 @@ This project has been built using the **Anaconda** installation of Python 2.7 ve
 
 ### File structures
 
-All data files, including engineered files which result from some notebooks have been provided:
+Most data files, except train.csv and engineered_train.csv, have been included:
 
 + train.csv (the original input file from grupo bimbo): this is not included in the submission please see later
 + smaller_train.csv (a reduced version created to allow local workstation operation)
@@ -29,19 +29,21 @@ All data files, including engineered files which result from some notebooks have
 + engineered_producto_tabla.csv (an engineered version of product which extracts a shortened name, weight, pieces and supplier code)
 
 The folder structure is:
-home/
-	/data
-	/code
++-- home/
+|	+-- /data
+|	+-- /code
+
+Some of the notebooks below create new files and place them into /data
 
 The project's notebooks can be run independently of each other - except those reliant on train.csv and engineered_train.csv - but a suggested order would be:
 
 + explore_agency (examines the town_state lookup)
 + explore_product (examines the product look up and creates the engineered version of the file)
 + explore_client (examines the client look up and creates the engineered version of the file)
-+ explore_train (analysis of the training data file - please note that various elements of this notebook can take up to 20 mins to run)
++ explore_train (analysis of the training data file - please note that various elements of this notebook can take up to 20 mins to run and that the train file needs to be downloaded first)
 + engineer_smaller_train_file (takes the large train file and creates a smaller version)
 + engineer_features (with the smaller train file, adds lookup features, creates lagged sales data, encodes categorical data)
-+ create_model (initial training, testing then tuning of model - please note that the tuning element of modelling with gridSearch takes about 3 hours)
++ create_model (initial training, testing then tuning of model - please note that the tuning element of modelling with gridSearch takes about 3 hours and that the notebook relies on the output of engineer_features)
 
 ### Missing Data Files
 The train.csv file is too large to upload. It can be downloaded from Kaggle at: https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
