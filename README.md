@@ -29,9 +29,10 @@ Most data files, except train.csv and engineered_train.csv, have been included:
 + engineered_producto_tabla.csv (an engineered version of product which extracts a shortened name, weight, pieces and supplier code)
 
 The folder structure is:
-+-- home/
-|	+-- /data
-|	+-- /code
+
++     home/
++          /data
++          /code
 
 Some of the notebooks below create new files and place them into /data
 
